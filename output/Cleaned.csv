@@ -1,0 +1,887 @@
+﻿Order ID,Order Date,Customer Name,Email,Company Name,City,SKU,Quantity,Unit Price (USD),Revenue (USD),Product Name,Category,List Price (USD),Issues
+ORD-202601-0001,2026-01-01,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,
+ORD-202601-0002,2026-01-01,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202601-0003,2026-01-01,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202601-0004,2026-01-03,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-3002,4.0,1995.0,7980.0,Desk Lamp LED,Office,19.00,
+ORD-202601-0005,2026-03-01,Hiroshi Tanaka,tanaka.hiroshi@sakura.net,Sakura Trading KK,Osaka,SKU-2002,6.0,85.41,512.46,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202601-0006,2026-03-01,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-4001,8.0,198.0,1584.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202601-0007,2026-03-01,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-1003,8.0,8.75,70.0,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202601-0008,2026-04-01,Võ Thị Lan,lan.vo@thinh.net,Thịnh Phát Laundry,Can Tho,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202601-0009,2026-04-01,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-4001,10.0,22000.0,220000.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202601-0010,2026-04-01,Trần Thị Bích,bich.tran,"Sao Mai Co., Ltd",Hanoi,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,"Invalid_Email, Date_Mismatch"
+ORD-202601-0011,2026-05-01,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-3002,6.0,20.9,125.39999999999999,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202601-0012,2026-07-01,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202601-0013,2026-08-01,Võ Thị Lan,lan.vo@thinh.vn,Thịnh Phát Laundry,Can Tho,SKU-1002,3.0,24.99,74.97,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202601-0014,2026-08-01,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-1001,5.0,13.12,65.6,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202601-0015,2026-09-01,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-3001,4.0,5.2,20.8,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202601-0016,2026-10-01,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-2002,4.0,90.0,360.0,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202601-0017,2026-10-01,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-1003,8.0,8.75,70.0,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202601-0018,2026-10-01,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3003,5.0,30.88,154.4,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202601-0019,2026-10-01,Dương Anh Khoa,khoa.duong@binh.co,Bình An Pharma,Ho Chi Minh City,SKU-2003,8.0,15000.0,120000.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202601-0020,2026-11-01,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-3003,3.0,32.5,97.5,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202601-0021,2026-01-11,Hiroshi Tanaka,tanaka.hiroshi@sakura.com,Sakura Trading KK,Osaka,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,
+ORD-202601-0022,2026-11-01,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-3003,8.0,32.5,260.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202601-0023,2026-12-01,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-2002,4.0,89.9,359.6,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202601-0024,2026-12-01,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202601-0025,2026-12-01,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-1002,1.0,2499.0,2499.0,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202601-0026,2026-12-01,Lê Hoàng Nam,nam.le@thien.net,Thiên Quý Group,Can Tho,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202601-0027,2026-01-13,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,
+ORD-202601-0028,2026-01-13,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-2001,4.0,40.0,160.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202601-0029,2026-01-14,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-3001,4.0,5.2,20.8,Cable Organizer Pack,Office,5.20,
+ORD-202601-0030,2026-01-14,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202601-0031,2026-01-15,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,
+ORD-202601-0032,2026-01-15,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-2003,4.0,150.0,600.0,Webcam 4K,Peripherals,150.00,
+ORD-202601-0033,2026-01-15,Hiroshi Tanaka,tanaka.hiroshi@sakura.net,Sakura Trading KK,Osaka,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202601-0034,2026-01-15,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-1003,1.0,8.31,8.31,Phone Stand,Accessories,8.75,
+ORD-202601-0035,2026-01-16,Võ Thị Lan,lan.vo@thinh.net,Thịnh Phát Laundry,Can Tho,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,
+ORD-202601-0036,2026-01-16,Võ Thị Lan,lan.vo@thinh.vn,Thịnh Phát Laundry,Can Tho,SKU-1003,10.0,8.75,87.5,Phone Stand,Accessories,8.75,
+ORD-202601-0037,2026-01-17,Sarah Johnson,johnson.sarah@blue.co,Blue Harbor LLC,Boston,SKU-4001,6.0,198.0,1188.0,Docking Station Pro,Hardware,220.00,
+ORD-202601-0038,2026-01-17,Carlos Mendes,mendes.carlos,Mendes Comercio,Sao Paulo,SKU-2002,4.0,89.9,359.6,27-inch Monitor Arm,Peripherals,89.90,Invalid_Email
+ORD-202601-0039,2026-01-17,Sarah Johnson,johnson.sarah@blue.co,Blue Harbor LLC,Boston,SKU-3001,6.0,4.94,29.64,Cable Organizer Pack,Office,5.20,
+ORD-202601-0040,2026-01-18,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202601-0041,2026-01-18,Dương Anh Khoa,khoa.duong@binh.com,Bình An Pharma,Ho Chi Minh City,SKU-2003,6.0,135.0,810.0,Webcam 4K,Peripherals,150.00,
+ORD-202601-0042,2026-01-18,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,,Osaka,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,
+ORD-202601-0043,2026-01-18,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,
+ORD-202601-0044,2026-01-19,Hồ Ngọc Mai,mai.ho@mekong.co,,Can Tho,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,
+ORD-202601-0045,2026-01-19,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,
+ORD-202601-0046,2026-01-19,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,
+ORD-202601-0047,2026-01-20,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-2002,2.0,8091.0,16182.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202601-0048,2026-01-20,Bùi Thanh Hà,ha.bui@nam.com,Năm Căn Logistics,Ca Mau,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202601-0049,2026-01-20,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202601-0050,2026-01-21,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-1003,6.0,8.75,52.5,Phone Stand,Accessories,8.75,
+ORD-202601-0051,2026-01-21,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-3001,1.0,5.72,5.72,Cable Organizer Pack,Office,5.20,
+ORD-202601-0052,2026-01-21,Marie Dubois,dubois.marie@atelier.co,Atelier Dubois,Lyon,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,
+ORD-202601-0053,2026-01-22,Phạm Quốc Huy,huy.pham@phong.net,Phong Phúc Thịnh,Da Nang,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202601-0054,2026-01-22,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202601-0055,2026-01-23,Michael Brown,,Lakeside Hardware,Chicago,SKU-2001,4.0,45.0,180.0,Mechanical Keyboard,Peripherals,45.00,Missing_Email
+ORD-202601-0056,2026-01-23,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202601-0057,2026-01-23,Linda Nguyen,nguyen.linda@saigon.net,Saigon Bay Foods,Houston,SKU-3003,4.0,32.0,128.0,Ergonomic Footrest,Office,32.50,
+ORD-202601-0058,2026-01-24,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-3001,8.0,5.2,41.6,Cable Organizer Pack,Office,5.20,
+ORD-202601-0059,2026-01-24,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-3001,8.0,5.2,41.6,Cable Organizer Pack,Office,5.20,
+ORD-202601-0060,2026-01-24,Nguyễn Văn An,an.nguyen@minh.vn,Minh Phát Trading,Ho Chi Minh City,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,
+ORD-202601-0061,2026-01-25,Phạm Quốc Huy,huy.pham@phong.com,Phong Phúc Thịnh,Da Nang,SKU-3003,5.0,32.5,162.5,Ergonomic Footrest,Office,32.50,
+ORD-202601-0062,2026-01-25,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-3003,8.0,32.5,260.0,Ergonomic Footrest,Office,32.50,
+ORD-202601-0063,2026-01-25,Tom Wilson,wilson.tom@greenfield.vn,Greenfield Co,Denver,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202601-0064,2026-01-25,Dương Anh Khoa,khoa.duong@binh.vn,Bình An Pharma,Ho Chi Minh City,SKU-2001,10.0,4500.0,45000.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202601-0065,2026-01-26,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-3001,10.0,5.2,52.0,Cable Organizer Pack,Office,5.20,
+ORD-202601-0066,2026-01-26,Dương Anh Khoa,khoa.duong@binh.com,Bình An Pharma,Ho Chi Minh City,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202601-0067,2026-01-27,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202601-0068,2026-01-27,Lê Hoàng Nam,nam.le@thien.net,Thiên Quý Group,Can Tho,SKU-1002,1.0,27.49,27.49,Wireless Mouse,Accessories,24.99,
+ORD-202601-0069,2026-01-27,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-1003,10.0,8.75,87.5,Phone Stand,Accessories,8.75,
+ORD-202601-0070,2026-01-28,Olivia Martin,martin.olivia,Harbor Point Inc,Portland,SKU-3002,8.0,19.0,152.0,Desk Lamp LED,Office,19.00,Invalid_Email
+ORD-202601-0071,2026-01-28,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202601-0072,2026-01-29,Phạm Quốc Huy,huy.pham@phong.co,Phong Phúc Thịnh,Da Nang,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202601-0073,2026-01-29,Hồ Ngọc Mai,,Mekong Fresh JSC,Can Tho,SKU-2002,6.0,89.9,539.4000000000001,27-inch Monitor Arm,Peripherals,89.90,Missing_Email
+ORD-202601-0074,2026-01-29,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,SKU-1002,3.0,24.99,74.97,Wireless Mouse,Accessories,24.99,
+ORD-202601-0075,2026-01-29,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-4001,2.0,22000.0,44000.0,Docking Station Pro,Hardware,220.00,
+ORD-202601-0076,2026-01-30,Michael Brown,brown.michael@lakeside.com,Lakeside Hardware,Chicago,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,
+ORD-202601-0077,2026-01-31,Emily Carter,"carter.emily@northwind,com",Northwind Retail,Seattle,SKU-1002,3.0,24.99,74.97,Wireless Mouse,Accessories,24.99,Invalid_Email
+ORD-202601-0078,2026-01-31,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202602-0001,2026-01-02,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202602-0002,2026-02-02,Carlos Mendes,mendes.carlos@mendes.com,,Sao Paulo,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202602-0003,2026-02-02,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202602-0004,2026-02-02,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-1001,2.0,12.0,24.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202602-0005,2026-02-03,John Smith,smith.john@brightway.co,,Austin,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202602-0006,2026-03-02,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202602-0007,2026-03-02,Hiroshi Tanaka,tanaka.hiroshi@sakura.com,Sakura Trading KK,Osaka,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202602-0008,2026-03-02,John Smith,smith.john@brightway.vn,Brightway Supplies,Austin,SKU-1001,5.0,12.5,62.5,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202602-0009,2026-03-02,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-1003,5.0,8.75,43.75,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202602-0010,2026-04-02,Võ Thị Lan,lan.vo@thinh.co,Thịnh Phát Laundry,Can Tho,SKU-2002,2.0,90.0,180.0,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202602-0011,2026-02-04,Tom Wilson,,Greenfield Co,Denver,SKU-3003,6.0,32.5,195.0,Ergonomic Footrest,Office,32.50,Missing_Email
+ORD-202602-0012,2026-05-02,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202602-0013,2026-02-06,Trần Thị Bích,bich.tran@sao.co,"Sao Mai Co., Ltd",Hanoi,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202602-0014,2026-02-06,Trần Thị Bích,bich.tran@sao.vn,"Sao Mai Co., Ltd",Hanoi,SKU-1002,2.0,26.24,52.48,Wireless Mouse,Accessories,24.99,
+ORD-202602-0015,2026-06-02,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202602-0016,2026-07-02,Kevin Tran,tran.kevin@tran.com,Tran & Sons,San Jose,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202602-0017,2026-02-08,Lý Gia Bảo,bao.ly@rong.com,Rồng Việt Media,Hue,SKU-1002,10.0,24.99,249.89999999999998,Wireless Mouse,Accessories,24.99,
+ORD-202602-0018,2026-08-02,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-3003,5.0,32.5,162.5,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202602-0019,2026-02-08,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-1003,3.0,8.75,26.25,Phone Stand,Accessories,8.75,
+ORD-202602-0020,2026-08-02,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,SKU-2002,6.0,89.9,539.4000000000001,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202602-0021,2026-08-02,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-3003,6.0,30.88,185.28,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202602-0022,2026-09-02,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202602-0023,2026-09-02,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202602-0024,2026-02-09,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,
+ORD-202602-0025,2026-09-02,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-3001,10.0,5.2,52.0,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202602-0026,2026-09-02,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-2002,5.0,98.89,494.45,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202602-0027,2026-09-02,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-2002,6.0,89.9,539.4000000000001,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202602-0028,2026-09-02,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-3001,8.0,5.2,41.6,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202602-0029,2026-09-02,Marie Dubois,dubois.marie,Atelier Dubois,Lyon,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,"Invalid_Email, Date_Mismatch"
+ORD-202602-0030,2026-10-02,Bùi Thanh Hà,ha.bui@nam.net,,Ca Mau,SKU-2002,4.0,90.0,360.0,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202602-0031,2026-02-10,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-3001,4.0,5.2,20.8,Cable Organizer Pack,Office,5.20,
+ORD-202602-0032,2026-10-02,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-1002,4.0,2499.0,9996.0,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202602-0033,2026-11-02,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-1002,1.0,2499.0,2499.0,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202602-0034,2026-11-02,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202602-0035,2026-11-02,Linda Nguyen,nguyen.linda@saigon.co,Saigon Bay Foods,Houston,SKU-2003,2.0,157.5,315.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202602-0036,2026-11-02,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202602-0037,2026-11-02,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202602-0038,2026-02-13,Michael Brown,brown.michael@lakeside.com,Lakeside Hardware,Chicago,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,
+ORD-202602-0039,2026-02-14,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3003,5.0,32.5,162.5,Ergonomic Footrest,Office,32.50,
+ORD-202602-0040,2026-02-14,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-4001,4.0,220.0,880.0,Docking Station Pro,Hardware,220.00,
+ORD-202602-0041,2026-02-14,Michael Brown,brown.michael@lakeside.net,Lakeside Hardware,Chicago,SKU-3002,8.0,19.0,152.0,Desk Lamp LED,Office,19.00,
+ORD-202602-0042,2026-02-15,John Smith,smith.john@brightway.co,Brightway Supplies,Austin,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,
+ORD-202602-0043,2026-02-15,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,
+ORD-202602-0044,2026-02-15,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-3001,6.0,5.2,31.200000000000003,Cable Organizer Pack,Office,5.20,
+ORD-202602-0045,2026-02-15,Sarah Johnson,johnson.sarah@blue.vn,Blue Harbor LLC,Boston,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202602-0046,2026-02-16,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-3003,4.0,32.5,130.0,Ergonomic Footrest,Office,32.50,
+ORD-202602-0047,2026-02-17,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,
+ORD-202602-0048,2026-02-17,Anna Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-1002,3.0,23.74,71.22,Wireless Mouse,Accessories,24.99,
+ORD-202602-0049,2026-02-17,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-2002,3.0,80.91,242.73,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202602-0050,2026-02-18,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-2003,10.0,150.0,1500.0,Webcam 4K,Peripherals,150.00,
+ORD-202602-0051,2026-02-19,John Smith,smith.john@brightway.vn,Brightway Supplies,Austin,SKU-3003,5.0,32.5,162.5,Ergonomic Footrest,Office,32.50,
+ORD-202602-0052,2026-02-19,Marie Dubois,dubois.marie,Atelier Dubois,Lyon,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,Invalid_Email
+ORD-202602-0053,2026-02-20,Olivia Martin,martin.olivia@harbor.com,Harbor Point Inc,Portland,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202602-0054,2026-02-20,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,
+ORD-202602-0055,2026-02-21,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202602-0056,2026-02-22,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,
+ORD-202602-0057,2026-02-22,Priya Sharma,,Lotus Exports Pvt,Mumbai,SKU-1002,6.0,2499.0,14994.0,Wireless Mouse,Accessories,24.99,Missing_Email
+ORD-202602-0058,2026-02-22,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,
+ORD-202602-0059,2026-02-23,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202602-0060,2026-02-23,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202602-0061,2026-02-23,John Smith,smith.john@brightway.vn,Brightway Supplies,Austin,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,
+ORD-202602-0062,2026-02-23,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,
+ORD-202602-0063,2026-02-24,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-1001,1.0,12.5,12.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202602-0064,2026-02-24,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-3002,5.0,19.0,95.0,Desk Lamp LED,Office,19.00,
+ORD-202602-0065,2026-02-24,David Lee,lee.david@pacific.co,,San Diego,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202602-0066,2026-02-24,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-2002,5.0,89.9,449.5,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202602-0067,2026-02-24,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,
+ORD-202602-0068,2026-02-24,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-2003,1.0,150.0,150.0,Webcam 4K,Peripherals,150.00,
+ORD-202602-0069,2026-02-25,Trần Thị Bích,,"Sao Mai Co., Ltd",Hanoi,SKU-1001,1.0,12.5,12.5,USB-C Cable 1m,Accessories,12.50,Missing_Email
+ORD-202602-0070,2026-02-25,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202602-0071,2026-02-25,David Lee,lee.david@pacific.com,,San Diego,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202602-0072,2026-02-25,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-1003,5.0,8.75,43.75,Phone Stand,Accessories,8.75,
+ORD-202602-0073,2026-02-26,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,
+ORD-202602-0074,2026-02-26,John Smith,smith.john@brightway.vn,,Austin,SKU-1001,3.0,13.75,41.25,USB-C Cable 1m,Accessories,12.50,
+ORD-202602-0075,2026-02-26,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3003,6.0,3250.0,19500.0,Ergonomic Footrest,Office,32.50,
+ORD-202602-0076,2026-02-26,John Smith,smith.john@brightway.co,Brightway Supplies,Austin,SKU-1002,10.0,24.99,249.89999999999998,Wireless Mouse,Accessories,24.99,
+ORD-202602-0077,2026-02-27,Phạm Quốc Huy,huy.pham@phong.vn,Phong Phúc Thịnh,Da Nang,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,
+ORD-202602-0078,2026-02-27,Kevin Tran,tran.kevin@tran.com,Tran & Sons,San Jose,SKU-3002,4.0,19.0,76.0,Desk Lamp LED,Office,19.00,
+ORD-202602-0079,2026-02-27,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-2002,6.0,98.89,593.34,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202602-0080,2026-02-28,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,
+ORD-202602-0081,2026-02-28,Michael Brown,brown.michael@lakeside.vn,Lakeside Hardware,Chicago,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,
+ORD-202602-0082,2026-02-28,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-3001,4.0,5.0,20.0,Cable Organizer Pack,Office,5.20,
+ORD-202602-0083,2026-02-28,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0001,2026-01-03,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202603-0002,2026-02-03,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202603-0003,2026-02-03,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-1002,10.0,24.99,249.89999999999998,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202603-0004,2026-03-03,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-2001,4.0,40.5,162.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202603-0005,2026-04-03,David Lee,,Pacific Rim Imports,San Diego,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,"Missing_Email, Date_Mismatch"
+ORD-202603-0006,2026-04-03,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-3003,6.0,32.0,192.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202603-0007,2026-04-03,Võ Thị Lan,lan.vo@thinh.net,Thịnh Phát Laundry,Can Tho,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202603-0008,2026-03-04,Tom Wilson,wilson.tom@greenfield.com,Greenfield Co,Denver,SKU-1001,1.0,1250.0,1250.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0009,2026-04-03,Phạm Quốc Huy,huy.pham@phong.co,Phong Phúc Thịnh,Da Nang,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202603-0010,2026-04-03,Võ Thị Lan,lan.vo@thinh.co,Thịnh Phát Laundry,Can Tho,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202603-0011,2026-03-04,Lý Gia Bảo,bao.ly@rong.com,Rồng Việt Media,Hue,SKU-2003,3.0,150.0,450.0,Webcam 4K,Peripherals,150.00,
+ORD-202603-0012,2026-03-04,Bùi Thanh Hà,ha.bui@nam.net,,Ca Mau,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,
+ORD-202603-0013,2026-05-03,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202603-0014,2026-03-05,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,
+ORD-202603-0015,2026-05-03,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202603-0016,2026-06-03,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202603-0017,2026-06-03,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-4001,5.0,198.0,990.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202603-0018,2026-03-06,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-1003,8.0,8.75,70.0,Phone Stand,Accessories,8.75,
+ORD-202603-0019,2026-07-03,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202603-0020,2026-08-03,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-4001,10.0,220.0,2200.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202603-0021,2026-08-03,Hiroshi Tanaka,tanaka.hiroshi@sakura.vn,Sakura Trading KK,Osaka,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202603-0022,2026-03-08,David Lee,,Pacific Rim Imports,San Diego,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,Missing_Email
+ORD-202603-0023,2026-09-03,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-2001,4.0,45.0,180.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202603-0024,2026-09-03,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202603-0025,2026-10-03,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-1001,3.0,12.5,37.5,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202603-0026,2026-10-03,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-1002,8.0,26.24,209.92,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202603-0027,2026-03-10,Lý Gia Bảo,bao.ly@rong.com,Rồng Việt Media,Hue,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0028,2026-11-03,Marie Dubois,dubois.marie@atelier.net,Atelier Dubois,Lyon,SKU-2003,6.0,165.0,990.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202603-0029,2026-11-03,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-3001,8.0,5.46,43.68,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202603-0030,2026-11-03,John Smith,smith.john@brightway.co,Brightway Supplies,Austin,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202603-0031,2026-11-03,John Smith,smith.john@brightway.co,Brightway Supplies,Austin,SKU-2001,8.0,45.0,360.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202603-0032,2026-11-03,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-3001,1.0,4.94,4.94,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202603-0033,2026-11-03,Anna Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-1001,5.0,12.5,62.5,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202603-0034,2026-12-03,Đặng Minh Tuấn,,V-Green Energy,Hai Phong,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,"Missing_Email, Date_Mismatch"
+ORD-202603-0035,2026-03-13,Dương Anh Khoa,khoa.duong@binh.vn,Bình An Pharma,Ho Chi Minh City,SKU-1001,8.0,12.5,100.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0036,2026-03-14,Linda Nguyen,nguyen.linda@saigon.co,Saigon Bay Foods,Houston,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0037,2026-03-15,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-2002,2.0,80.91,161.82,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202603-0038,2026-03-16,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,
+ORD-202603-0039,2026-03-16,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,
+ORD-202603-0040,2026-03-16,Võ Thị Lan,lan.vo@thinh.com,,Can Tho,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202603-0041,2026-03-17,Carlos Mendes,mendes.carlos@mendes.net,Mendes Comercio,Sao Paulo,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202603-0042,2026-03-18,Olivia Martin,martin.olivia,Harbor Point Inc,Portland,SKU-1003,8.0,8.31,66.48,Phone Stand,Accessories,8.75,Invalid_Email
+ORD-202603-0043,2026-03-18,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202603-0044,2026-03-19,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-2003,3.0,150.0,450.0,Webcam 4K,Peripherals,150.00,
+ORD-202603-0045,2026-03-19,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-3002,5.0,19.0,95.0,Desk Lamp LED,Office,19.00,
+ORD-202603-0046,2026-03-19,Michael Brown,brown.michael@lakeside.vn,Lakeside Hardware,Chicago,SKU-1001,5.0,12.5,62.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0047,2026-03-19,John Smith,smith.john@brightway.net,Brightway Supplies,Austin,SKU-1001,5.0,12.5,62.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0048,2026-03-20,Priya Sharma,,Lotus Exports Pvt,Mumbai,SKU-1002,5.0,24.99,124.94999999999999,Wireless Mouse,Accessories,24.99,Missing_Email
+ORD-202603-0049,2026-03-20,Nguyễn Văn An,an.nguyen@minh.vn,Minh Phát Trading,Ho Chi Minh City,SKU-2003,1.0,150.0,150.0,Webcam 4K,Peripherals,150.00,
+ORD-202603-0050,2026-03-20,Anna Müller,muller.anna@rheinland.co,Rheinland GmbH,Berlin,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,
+ORD-202603-0051,2026-03-21,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,
+ORD-202603-0052,2026-03-21,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-3001,6.0,5.2,31.200000000000003,Cable Organizer Pack,Office,5.20,
+ORD-202603-0053,2026-03-23,Kevin Tran,,Tran & Sons,San Jose,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,Missing_Email
+ORD-202603-0054,2026-03-23,Lý Gia Bảo,bao.ly@rong.com,Rồng Việt Media,Hue,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,
+ORD-202603-0055,2026-03-23,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-1001,3.0,12.5,37.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0056,2026-03-23,Sarah Johnson,johnson.sarah@blue.vn,Blue Harbor LLC,Boston,SKU-2001,4.0,4500.0,18000.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202603-0057,2026-03-24,Võ Thị Lan,lan.vo@thinh.vn,Thịnh Phát Laundry,Can Tho,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,
+ORD-202603-0058,2026-03-24,Lê Hoàng Nam,nam.le@thien.net,Thiên Quý Group,Can Tho,SKU-1001,8.0,12.5,100.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0059,2026-03-24,Sarah Johnson,johnson.sarah@blue.vn,Blue Harbor LLC,Boston,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202603-0060,2026-03-25,Dương Anh Khoa,khoa.duong@binh.com,Bình An Pharma,Ho Chi Minh City,SKU-1003,3.0,9.0,27.0,Phone Stand,Accessories,8.75,
+ORD-202603-0061,2026-03-25,Võ Thị Lan,lan.vo@thinh.net,Thịnh Phát Laundry,Can Tho,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202603-0062,2026-03-25,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,
+ORD-202603-0063,2026-03-25,Dương Anh Khoa,khoa.duong,Bình An Pharma,Ho Chi Minh City,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,Invalid_Email
+ORD-202603-0064,2026-03-26,Sarah Johnson,johnson.sarah@blue.co,Blue Harbor LLC,Boston,SKU-1003,1.0,8.31,8.31,Phone Stand,Accessories,8.75,
+ORD-202603-0065,2026-03-26,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202603-0066,2026-03-26,Marie Dubois,dubois.marie@atelier.co,Atelier Dubois,Lyon,SKU-3001,8.0,5.2,41.6,Cable Organizer Pack,Office,5.20,
+ORD-202603-0067,2026-03-27,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0068,2026-03-28,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202603-0069,2026-03-28,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,
+ORD-202603-0070,2026-03-28,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202603-0071,2026-03-29,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-2001,6.0,47.25,283.5,Mechanical Keyboard,Peripherals,45.00,
+ORD-202603-0072,2026-03-29,Lý Gia Bảo,bao.ly@rong.com,,Hue,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,
+ORD-202603-0073,2026-03-29,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-2002,3.0,89.9,269.70000000000005,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202603-0074,2026-03-29,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202603-0075,2026-03-30,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202603-0076,2026-03-31,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-1003,6.0,9.19,55.14,Phone Stand,Accessories,8.75,
+ORD-202603-0077,2026-03-31,Võ Thị Lan,lan.vo@thinh.net,Thịnh Phát Laundry,Can Tho,SKU-3001,10.0,4.68,46.8,Cable Organizer Pack,Office,5.20,
+ORD-202603-0078,2026-03-31,Emily Carter,carter.emily,Northwind Retail,Seattle,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,Invalid_Email
+ORD-202604-0001,2026-01-04,Kevin Tran,tran.kevin@tran.co,Tran & Sons,San Jose,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202604-0002,2026-01-04,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-2001,3.0,45.0,135.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202604-0003,2026-02-04,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202604-0004,2026-02-04,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202604-0005,2026-03-04,Phạm Quốc Huy,huy.pham@phong.vn,,Da Nang,SKU-3003,1.0,30.88,30.88,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202604-0006,2026-03-04,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202604-0007,2026-03-04,Lý Gia Bảo,bao.ly@rong.co,Rồng Việt Media,Hue,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202604-0008,2026-03-04,Hiroshi Tanaka,tanaka.hiroshi@sakura.vn,Sakura Trading KK,Osaka,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202604-0009,2026-04-03,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202604-0010,2026-03-04,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-2001,1.0,42.75,42.75,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202604-0011,2026-03-04,Olivia Martin,,Harbor Point Inc,Portland,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,"Missing_Email, Date_Mismatch"
+ORD-202604-0012,2026-04-04,Carlos Mendes,mendes.carlos@mendes.net,Mendes Comercio,Sao Paulo,SKU-2003,10.0,150.0,1500.0,Webcam 4K,Peripherals,150.00,
+ORD-202604-0013,2026-04-04,Marie Dubois,,Atelier Dubois,Lyon,SKU-1002,2.0,2749.0,5498.0,Wireless Mouse,Accessories,24.99,Missing_Email
+ORD-202604-0014,2026-05-04,Nguyễn Văn An,an.nguyen,Minh Phát Trading,Ho Chi Minh City,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,"Invalid_Email, Date_Mismatch"
+ORD-202604-0015,2026-05-04,Đặng Minh Tuấn,tuan.dang@vgreen.net,V-Green Energy,Hai Phong,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202604-0016,2026-05-04,Võ Thị Lan,lan.vo@thinh.net,Thịnh Phát Laundry,Can Tho,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202604-0017,2026-04-06,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202604-0018,2026-06-04,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-2002,1.0,90.0,90.0,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202604-0019,2026-04-06,Hiroshi Tanaka,,Sakura Trading KK,Osaka,SKU-2003,2.0,15000.0,30000.0,Webcam 4K,Peripherals,150.00,Missing_Email
+ORD-202604-0020,2026-07-04,Trần Thị Bích,bich.tran@sao.co,,Hanoi,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202604-0021,2026-07-04,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202604-0022,2026-07-04,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-2001,10.0,45.0,450.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202604-0023,2026-04-07,Carlos Mendes,mendes.carlos@mendes.net,Mendes Comercio,Sao Paulo,SKU-1002,5.0,24.99,124.94999999999999,Wireless Mouse,Accessories,24.99,
+ORD-202604-0024,2026-04-10,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,
+ORD-202604-0025,2026-10-04,Phạm Quốc Huy,huy.pham,Phong Phúc Thịnh,Da Nang,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,"Invalid_Email, Date_Mismatch"
+ORD-202604-0026,2026-11-04,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-3001,10.0,5.2,52.0,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202604-0027,2026-04-11,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202604-0028,2026-12-04,Đặng Minh Tuấn,tuan.dang,,Hai Phong,SKU-1003,3.0,8.75,26.25,Phone Stand,Accessories,8.75,"Invalid_Email, Date_Mismatch"
+ORD-202604-0029,2026-04-12,Marie Dubois,dubois.marie@atelier.net,Atelier Dubois,Lyon,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202604-0030,2026-12-04,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202604-0031,2026-12-04,Kevin Tran,tran.kevin@tran.net,Tran & Sons,San Jose,SKU-3003,5.0,32.5,162.5,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202604-0032,2026-12-04,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-1002,1.0,25.0,25.0,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202604-0033,2026-04-13,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-1001,8.0,12.5,100.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202604-0034,2026-04-13,Kevin Tran,tran.kevin@tran.com,Tran & Sons,San Jose,SKU-2001,4.0,45.0,180.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202604-0035,2026-04-13,Emily Carter,,Northwind Retail,Seattle,SKU-1003,3.0,8.75,26.25,Phone Stand,Accessories,8.75,Missing_Email
+ORD-202604-0036,2026-04-14,Võ Thị Lan,lan.vo,Thịnh Phát Laundry,Can Tho,SKU-1002,1.0,22.49,22.49,Wireless Mouse,Accessories,24.99,Invalid_Email
+ORD-202604-0037,2026-04-15,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202604-0038,2026-04-15,Michael Brown,,Lakeside Hardware,Chicago,SKU-2003,3.0,157.5,472.5,Webcam 4K,Peripherals,150.00,Missing_Email
+ORD-202604-0039,2026-04-15,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-2003,4.0,150.0,600.0,Webcam 4K,Peripherals,150.00,
+ORD-202604-0040,2026-04-15,Phạm Quốc Huy,huy.pham@phong.co,Phong Phúc Thịnh,Da Nang,SKU-3002,3.0,19.95,59.849999999999994,Desk Lamp LED,Office,19.00,
+ORD-202604-0041,2026-04-15,Kevin Tran,"tran.kevin@tran,com",Tran & Sons,San Jose,SKU-1002,5.0,24.99,124.94999999999999,Wireless Mouse,Accessories,24.99,Invalid_Email
+ORD-202604-0042,2026-04-15,Dương Anh Khoa,khoa.duong@binh.vn,Bình An Pharma,Ho Chi Minh City,SKU-2003,3.0,150.0,450.0,Webcam 4K,Peripherals,150.00,
+ORD-202604-0043,2026-04-16,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202604-0044,2026-04-16,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202604-0045,2026-04-16,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,
+ORD-202604-0046,2026-04-17,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-1002,8.0,24.99,199.92,Wireless Mouse,Accessories,24.99,
+ORD-202604-0047,2026-04-17,Michael Brown,brown.michael@lakeside.vn,Lakeside Hardware,Chicago,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,
+ORD-202604-0048,2026-04-17,Marie Dubois,dubois.marie@atelier.net,Atelier Dubois,Lyon,SKU-4001,2.0,231.0,462.0,Docking Station Pro,Hardware,220.00,
+ORD-202604-0049,2026-04-18,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-4001,5.0,242.0,1210.0,Docking Station Pro,Hardware,220.00,
+ORD-202604-0050,2026-04-18,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-3003,5.0,32.5,162.5,Ergonomic Footrest,Office,32.50,
+ORD-202604-0051,2026-04-19,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-1003,5.0,8.31,41.550000000000004,Phone Stand,Accessories,8.75,
+ORD-202604-0052,2026-04-19,Carlos Mendes,mendes.carlos@mendes.net,Mendes Comercio,Sao Paulo,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202604-0053,2026-04-19,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,
+ORD-202604-0054,2026-04-19,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202604-0055,2026-04-19,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,
+ORD-202604-0056,2026-04-20,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,
+ORD-202604-0057,2026-04-20,Kevin Tran,"tran.kevin@tran,com",Tran & Sons,San Jose,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,Invalid_Email
+ORD-202604-0058,2026-04-20,Hồ Ngọc Mai,mai.ho@mekong.net,Mekong Fresh JSC,Can Tho,SKU-1001,1.0,12.5,12.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202604-0059,2026-04-21,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-1002,1.0,23.74,23.74,Wireless Mouse,Accessories,24.99,
+ORD-202604-0060,2026-04-21,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202604-0061,2026-04-21,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-3001,6.0,5.2,31.200000000000003,Cable Organizer Pack,Office,5.20,
+ORD-202604-0062,2026-04-22,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-2003,3.0,165.0,495.0,Webcam 4K,Peripherals,150.00,
+ORD-202604-0063,2026-04-23,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-2001,4.0,45.0,180.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202604-0064,2026-04-23,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,
+ORD-202604-0065,2026-04-23,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202604-0066,2026-04-23,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,
+ORD-202604-0067,2026-04-24,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,
+ORD-202604-0068,2026-04-24,Bùi Thanh Hà,ha.bui@nam.com,Năm Căn Logistics,Ca Mau,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,
+ORD-202604-0069,2026-04-24,Hồ Ngọc Mai,mai.ho@mekong.vn,,Can Tho,SKU-3003,5.0,29.25,146.25,Ergonomic Footrest,Office,32.50,
+ORD-202604-0070,2026-04-24,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202604-0071,2026-04-24,Trần Thị Bích,bich.tran@sao.co,"Sao Mai Co., Ltd",Hanoi,SKU-2003,2.0,15000.0,30000.0,Webcam 4K,Peripherals,150.00,
+ORD-202604-0072,2026-04-25,Hồ Ngọc Mai,mai.ho@mekong.com,Mekong Fresh JSC,Can Tho,SKU-2003,3.0,150.0,450.0,Webcam 4K,Peripherals,150.00,
+ORD-202604-0073,2026-04-25,Marie Dubois,dubois.marie@atelier.co,Atelier Dubois,Lyon,SKU-1003,2.0,875.0,1750.0,Phone Stand,Accessories,8.75,
+ORD-202604-0074,2026-04-26,Hồ Ngọc Mai,mai.ho@mekong.com,Mekong Fresh JSC,Can Tho,SKU-1003,1.0,875.0,875.0,Phone Stand,Accessories,8.75,
+ORD-202604-0075,2026-04-26,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-1002,10.0,24.99,249.89999999999998,Wireless Mouse,Accessories,24.99,
+ORD-202604-0076,2026-04-27,Tom Wilson,wilson.tom@greenfield.com,Greenfield Co,Denver,SKU-3001,5.0,5.2,26.0,Cable Organizer Pack,Office,5.20,
+ORD-202604-0077,2026-04-27,Nguyễn Văn An,an.nguyen@minh.vn,Minh Phát Trading,Ho Chi Minh City,SKU-3003,1.0,3250.0,3250.0,Ergonomic Footrest,Office,32.50,
+ORD-202604-0078,2026-04-27,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-2002,8.0,8990.0,71920.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202604-0079,2026-04-28,John Smith,smith.john@brightway.vn,Brightway Supplies,Austin,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202604-0080,2026-04-28,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-1001,3.0,12.5,37.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202604-0081,2026-04-28,John Smith,smith.john@brightway.vn,Brightway Supplies,Austin,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,
+ORD-202604-0082,2026-04-29,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202604-0083,2026-04-30,Sarah Johnson,,Blue Harbor LLC,Boston,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,Missing_Email
+ORD-202605-0001,2026-02-05,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-2001,6.0,47.25,283.5,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202605-0002,2026-03-05,Marie Dubois,dubois.marie,Atelier Dubois,Lyon,SKU-2002,5.0,89.9,449.5,27-inch Monitor Arm,Peripherals,89.90,"Invalid_Email, Date_Mismatch"
+ORD-202605-0003,2026-05-03,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202605-0004,2026-03-05,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202605-0005,2026-04-05,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202605-0006,2026-05-04,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-1003,8.0,9.19,73.52,Phone Stand,Accessories,8.75,
+ORD-202605-0007,2026-05-05,Priya Sharma,sharma.priya@lotus.vn,Lotus Exports Pvt,Mumbai,SKU-3001,5.0,5.46,27.3,Cable Organizer Pack,Office,5.20,
+ORD-202605-0008,2026-05-05,Lê Hoàng Nam,"nam.le@thien,com",Thiên Quý Group,Can Tho,SKU-2001,10.0,45.0,450.0,Mechanical Keyboard,Peripherals,45.00,Invalid_Email
+ORD-202605-0009,2026-05-05,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-1003,5.0,9.0,45.0,Phone Stand,Accessories,8.75,
+ORD-202605-0010,2026-05-05,Emily Carter,,Northwind Retail,Seattle,SKU-4001,1.0,22000.0,22000.0,Docking Station Pro,Hardware,220.00,Missing_Email
+ORD-202605-0011,2026-05-05,Lý Gia Bảo,bao.ly@rong.com,Rồng Việt Media,Hue,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202605-0012,2026-05-05,Hiroshi Tanaka,tanaka.hiroshi@sakura.net,Sakura Trading KK,Osaka,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,
+ORD-202605-0013,2026-06-05,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202605-0014,2026-06-05,Marie Dubois,dubois.marie@atelier.net,Atelier Dubois,Lyon,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202605-0015,2026-05-07,John Smith,smith.john@brightway.net,Brightway Supplies,Austin,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,
+ORD-202605-0016,2026-07-05,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-2002,5.0,8990.0,44950.0,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202605-0017,2026-05-07,David Lee,lee.david,Pacific Rim Imports,San Diego,SKU-4001,4.0,220.0,880.0,Docking Station Pro,Hardware,220.00,Invalid_Email
+ORD-202605-0018,2026-08-05,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-3002,5.0,19.0,95.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202605-0019,2026-08-05,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-3001,6.0,5.2,31.200000000000003,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202605-0020,2026-08-05,Anna Müller,,Rheinland GmbH,Berlin,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,"Missing_Email, Date_Mismatch"
+ORD-202605-0021,2026-09-05,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-1003,10.0,8.75,87.5,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202605-0022,2026-09-05,Sarah Johnson,johnson.sarah@blue.co,Blue Harbor LLC,Boston,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202605-0023,2026-09-05,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-1002,1.0,2624.0,2624.0,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202605-0024,2026-09-05,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202605-0025,2026-10-05,Trần Thị Bích,bich.tran@sao.vn,"Sao Mai Co., Ltd",Hanoi,SKU-2003,4.0,150.0,600.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202605-0026,2026-11-05,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-3003,4.0,32.5,130.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202605-0027,2026-11-05,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-2001,1.0,40.5,40.5,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202605-0028,2026-05-11,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-4001,6.0,220.0,1320.0,Docking Station Pro,Hardware,220.00,
+ORD-202605-0029,2026-11-05,Kevin Tran,tran.kevin@tran.co,Tran & Sons,San Jose,SKU-1002,2.0,23.74,47.48,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202605-0030,2026-12-05,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202605-0031,2026-12-05,Kevin Tran,tran.kevin@tran.co,Tran & Sons,San Jose,SKU-2002,2.0,94.4,188.8,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202605-0032,2026-12-05,Lê Hoàng Nam,nam.le@thien.net,Thiên Quý Group,Can Tho,SKU-1003,2.0,9.62,19.24,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202605-0033,2026-12-05,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202605-0034,2026-12-05,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-2002,6.0,89.9,539.4000000000001,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202605-0035,2026-12-05,Hiroshi Tanaka,,Sakura Trading KK,Osaka,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,"Missing_Email, Date_Mismatch"
+ORD-202605-0036,2026-12-05,Kevin Tran,tran.kevin@tran.co,Tran & Sons,San Jose,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202605-0037,2026-12-05,Emily Carter,,Northwind Retail,Seattle,SKU-3003,3.0,34.12,102.35999999999999,Ergonomic Footrest,Office,32.50,"Missing_Email, Date_Mismatch"
+ORD-202605-0038,2026-05-14,Võ Thị Lan,lan.vo@thinh.net,,Can Tho,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,
+ORD-202605-0039,2026-05-14,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202605-0040,2026-05-15,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-3001,2.0,5.46,10.92,Cable Organizer Pack,Office,5.20,
+ORD-202605-0041,2026-05-15,Lê Hoàng Nam,nam.le@thien.net,Thiên Quý Group,Can Tho,SKU-1003,3.0,9.19,27.57,Phone Stand,Accessories,8.75,
+ORD-202605-0042,2026-05-15,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-2001,3.0,45.0,135.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202605-0043,2026-05-16,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-1003,8.0,8.75,70.0,Phone Stand,Accessories,8.75,
+ORD-202605-0044,2026-05-16,Michael Brown,brown.michael@lakeside.com,Lakeside Hardware,Chicago,SKU-4001,6.0,220.0,1320.0,Docking Station Pro,Hardware,220.00,
+ORD-202605-0045,2026-05-16,Olivia Martin,martin.olivia,Harbor Point Inc,Portland,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,Invalid_Email
+ORD-202605-0046,2026-05-18,Olivia Martin,martin.olivia,Harbor Point Inc,Portland,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,Invalid_Email
+ORD-202605-0047,2026-05-18,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-2001,1.0,49.5,49.5,Mechanical Keyboard,Peripherals,45.00,
+ORD-202605-0048,2026-05-18,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-2002,5.0,89.9,449.5,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202605-0049,2026-05-18,John Smith,smith.john@brightway.net,Brightway Supplies,Austin,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,
+ORD-202605-0050,2026-05-19,Michael Brown,brown.michael@lakeside.net,Lakeside Hardware,Chicago,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,
+ORD-202605-0051,2026-05-19,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-4001,6.0,220.0,1320.0,Docking Station Pro,Hardware,220.00,
+ORD-202605-0052,2026-05-20,Phạm Quốc Huy,huy.pham@phong.vn,Phong Phúc Thịnh,Da Nang,SKU-3003,6.0,32.5,195.0,Ergonomic Footrest,Office,32.50,
+ORD-202605-0053,2026-05-20,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-3003,6.0,32.5,195.0,Ergonomic Footrest,Office,32.50,
+ORD-202605-0054,2026-05-20,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-2001,8.0,45.0,360.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202605-0055,2026-05-21,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,
+ORD-202605-0056,2026-05-21,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-2001,5.0,45.0,225.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202605-0057,2026-05-21,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,
+ORD-202605-0058,2026-05-22,Trần Thị Bích,bich.tran@sao.vn,"Sao Mai Co., Ltd",Hanoi,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202605-0059,2026-05-23,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202605-0060,2026-05-23,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,
+ORD-202605-0061,2026-05-23,Tom Wilson,wilson.tom@greenfield.vn,Greenfield Co,Denver,SKU-2001,10.0,47.25,472.5,Mechanical Keyboard,Peripherals,45.00,
+ORD-202605-0062,2026-05-23,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-2003,2.0,157.5,315.0,Webcam 4K,Peripherals,150.00,
+ORD-202605-0063,2026-05-24,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,
+ORD-202605-0064,2026-05-24,Marie Dubois,dubois.marie@atelier.com,,Lyon,SKU-1003,1.0,9.0,9.0,Phone Stand,Accessories,8.75,
+ORD-202605-0065,2026-05-25,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202605-0066,2026-05-25,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-3003,8.0,32.5,260.0,Ergonomic Footrest,Office,32.50,
+ORD-202605-0067,2026-05-25,Carlos Mendes,mendes.carlos@mendes.co,Mendes Comercio,Sao Paulo,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202605-0068,2026-05-27,Lý Gia Bảo,bao.ly@rong.co,Rồng Việt Media,Hue,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,
+ORD-202605-0069,2026-05-27,Michael Brown,brown.michael@lakeside.net,Lakeside Hardware,Chicago,SKU-4001,2.0,198.0,396.0,Docking Station Pro,Hardware,220.00,
+ORD-202605-0070,2026-05-28,Sarah Johnson,johnson.sarah,Blue Harbor LLC,Boston,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,Invalid_Email
+ORD-202605-0071,2026-05-28,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-4001,10.0,209.0,2090.0,Docking Station Pro,Hardware,220.00,
+ORD-202605-0072,2026-05-28,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-3003,5.0,32.0,160.0,Ergonomic Footrest,Office,32.50,
+ORD-202605-0073,2026-05-29,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202605-0074,2026-05-30,Anna Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-1001,2.0,12.0,24.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202605-0075,2026-05-30,Phạm Quốc Huy,huy.pham@phong.com,Phong Phúc Thịnh,Da Nang,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202605-0076,2026-05-30,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,
+ORD-202605-0077,2026-05-30,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-3002,4.0,19.0,76.0,Desk Lamp LED,Office,19.00,
+ORD-202605-0078,2026-05-31,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,
+ORD-202605-0079,2026-05-31,Linda Nguyen,nguyen.linda@saigon.com,Saigon Bay Foods,Houston,SKU-3001,8.0,5.2,41.6,Cable Organizer Pack,Office,5.20,
+ORD-202605-0080,2026-05-31,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-2003,2.0,135.0,270.0,Webcam 4K,Peripherals,150.00,
+ORD-202605-0081,2026-05-31,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-3001,10.0,5.2,52.0,Cable Organizer Pack,Office,5.20,
+ORD-202606-0001,2026-01-06,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202606-0002,2026-06-01,Hồ Ngọc Mai,mai.ho@mekong.net,Mekong Fresh JSC,Can Tho,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202606-0003,2026-01-06,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202606-0004,2026-01-06,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-2001,5.0,45.0,225.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202606-0005,2026-01-06,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202606-0006,2026-01-06,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202606-0007,2026-06-02,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-2002,6.0,89.9,539.4000000000001,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202606-0008,2026-06-03,Kevin Tran,tran.kevin@tran.com,Tran & Sons,San Jose,SKU-2001,6.0,47.25,283.5,Mechanical Keyboard,Peripherals,45.00,
+ORD-202606-0009,2026-03-06,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202606-0010,2026-03-06,Olivia Martin,martin.olivia@harbor.com,Harbor Point Inc,Portland,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202606-0011,2026-06-03,Lý Gia Bảo,bao.ly@rong.co,Rồng Việt Media,Hue,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202606-0012,2026-03-06,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-1001,10.0,12.5,125.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202606-0013,2026-04-06,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202606-0014,2026-04-06,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202606-0015,2026-06-04,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-4001,6.0,242.0,1452.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0016,2026-06-05,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-2002,5.0,89.9,449.5,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202606-0017,2026-06-06,Carlos Mendes,mendes.carlos@mendes.co,Mendes Comercio,Sao Paulo,SKU-2002,3.0,89.9,269.70000000000005,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202606-0018,2026-06-06,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0019,2026-07-06,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202606-0020,2026-07-06,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202606-0021,2026-06-07,Tom Wilson,wilson.tom@greenfield.vn,Greenfield Co,Denver,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,
+ORD-202606-0022,2026-07-06,Hiroshi Tanaka,tanaka.hiroshi@sakura.vn,Sakura Trading KK,Osaka,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202606-0023,2026-07-06,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-1003,1.0,8.31,8.31,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202606-0024,2026-08-06,Võ Thị Lan,lan.vo@thinh.co,Thịnh Phát Laundry,Can Tho,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202606-0025,2026-09-06,Trần Thị Bích,bich.tran@sao.vn,"Sao Mai Co., Ltd",Hanoi,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202606-0026,2026-09-06,Carlos Mendes,mendes.carlos@mendes.net,Mendes Comercio,Sao Paulo,SKU-2001,10.0,45.0,450.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202606-0027,2026-10-06,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202606-0028,2026-11-06,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-1002,8.0,24.99,199.92,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202606-0029,2026-11-06,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-2002,3.0,89.9,269.70000000000005,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202606-0030,2026-11-06,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-1001,10.0,1250.0,12500.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202606-0031,2026-06-11,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-3001,8.0,5.2,41.6,Cable Organizer Pack,Office,5.20,
+ORD-202606-0032,2026-12-06,Kevin Tran,tran.kevin@tran.net,Tran & Sons,San Jose,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202606-0033,2026-12-06,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202606-0034,2026-12-06,Bùi Thanh Hà,ha.bui@nam.com,,Ca Mau,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202606-0035,2026-06-13,Linda Nguyen,nguyen.linda,Saigon Bay Foods,Houston,SKU-3001,4.0,5.2,20.8,Cable Organizer Pack,Office,5.20,Invalid_Email
+ORD-202606-0036,2026-06-13,Kevin Tran,tran.kevin@tran.net,Tran & Sons,San Jose,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202606-0037,2026-06-13,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202606-0038,2026-06-13,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-4001,10.0,220.0,2200.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0039,2026-06-13,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0040,2026-06-14,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202606-0041,2026-06-14,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3001,5.0,5.2,26.0,Cable Organizer Pack,Office,5.20,
+ORD-202606-0042,2026-06-15,Đặng Minh Tuấn,tuan.dang@vgreen.net,V-Green Energy,Hai Phong,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,
+ORD-202606-0043,2026-06-15,Lý Gia Bảo,bao.ly,Rồng Việt Media,Hue,SKU-1001,10.0,12.5,125.0,USB-C Cable 1m,Accessories,12.50,Invalid_Email
+ORD-202606-0044,2026-06-15,David Lee,lee.david,Pacific Rim Imports,San Diego,SKU-1002,8.0,26.24,209.92,Wireless Mouse,Accessories,24.99,Invalid_Email
+ORD-202606-0045,2026-06-15,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,
+ORD-202606-0046,2026-06-16,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202606-0047,2026-06-16,Olivia Martin,martin.olivia@harbor.com,Harbor Point Inc,Portland,SKU-3003,4.0,32.5,130.0,Ergonomic Footrest,Office,32.50,
+ORD-202606-0048,2026-06-16,Marie Dubois,dubois.marie@atelier.net,Atelier Dubois,Lyon,SKU-4001,8.0,242.0,1936.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0049,2026-06-16,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202606-0050,2026-06-16,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-1001,8.0,11.88,95.04,USB-C Cable 1m,Accessories,12.50,
+ORD-202606-0051,2026-06-17,Kevin Tran,tran.kevin@tran.co,Tran & Sons,San Jose,SKU-1002,3.0,24.99,74.97,Wireless Mouse,Accessories,24.99,
+ORD-202606-0052,2026-06-17,Sarah Johnson,johnson.sarah@blue.vn,Blue Harbor LLC,Boston,SKU-3003,10.0,32.5,325.0,Ergonomic Footrest,Office,32.50,
+ORD-202606-0053,2026-06-17,Michael Brown,brown.michael@lakeside.net,Lakeside Hardware,Chicago,SKU-3002,3.0,18.05,54.150000000000006,Desk Lamp LED,Office,19.00,
+ORD-202606-0054,2026-06-18,Linda Nguyen,,Saigon Bay Foods,Houston,SKU-1003,1.0,9.19,9.19,Phone Stand,Accessories,8.75,Missing_Email
+ORD-202606-0055,2026-06-18,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-3001,4.0,5.2,20.8,Cable Organizer Pack,Office,5.20,
+ORD-202606-0056,2026-06-18,Kevin Tran,tran.kevin@tran.com,Tran & Sons,San Jose,SKU-4001,4.0,220.0,880.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0057,2026-06-19,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-1003,1.0,8.31,8.31,Phone Stand,Accessories,8.75,
+ORD-202606-0058,2026-06-19,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202606-0059,2026-06-20,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0060,2026-06-20,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,
+ORD-202606-0061,2026-06-20,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-3001,4.0,5.2,20.8,Cable Organizer Pack,Office,5.20,
+ORD-202606-0062,2026-06-20,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-2002,3.0,89.9,269.70000000000005,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202606-0063,2026-06-21,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-2001,10.0,45.0,450.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202606-0064,2026-06-21,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0065,2026-06-22,Võ Thị Lan,lan.vo@thinh.net,Thịnh Phát Laundry,Can Tho,SKU-3002,4.0,19.0,76.0,Desk Lamp LED,Office,19.00,
+ORD-202606-0066,2026-06-22,Priya Sharma,,Lotus Exports Pvt,Mumbai,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,Missing_Email
+ORD-202606-0067,2026-06-23,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,
+ORD-202606-0068,2026-06-23,Dương Anh Khoa,khoa.duong@binh.co,Bình An Pharma,Ho Chi Minh City,SKU-1001,1.0,1250.0,1250.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202606-0069,2026-06-24,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-1003,6.0,8.75,52.5,Phone Stand,Accessories,8.75,
+ORD-202606-0070,2026-06-26,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,
+ORD-202606-0071,2026-06-26,Phạm Quốc Huy,huy.pham@phong.net,Phong Phúc Thịnh,Da Nang,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202606-0072,2026-06-26,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,
+ORD-202606-0073,2026-06-27,Tom Wilson,wilson.tom@greenfield.vn,Greenfield Co,Denver,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,
+ORD-202606-0074,2026-06-27,Phạm Quốc Huy,huy.pham@phong.vn,Phong Phúc Thịnh,Da Nang,SKU-1003,6.0,8.75,52.5,Phone Stand,Accessories,8.75,
+ORD-202606-0075,2026-06-27,Marie Dubois,dubois.marie@atelier.net,Atelier Dubois,Lyon,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202606-0076,2026-06-27,Võ Thị Lan,lan.vo@thinh.vn,Thịnh Phát Laundry,Can Tho,SKU-1003,2.0,9.19,18.38,Phone Stand,Accessories,8.75,
+ORD-202606-0077,2026-06-27,Anna Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,
+ORD-202606-0078,2026-06-27,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-2003,1.0,165.0,165.0,Webcam 4K,Peripherals,150.00,
+ORD-202606-0079,2026-06-27,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,
+ORD-202606-0080,2026-06-28,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-1002,8.0,23.74,189.92,Wireless Mouse,Accessories,24.99,
+ORD-202606-0081,2026-06-28,Kevin Tran,tran.kevin@tran.net,Tran & Sons,San Jose,SKU-2003,10.0,150.0,1500.0,Webcam 4K,Peripherals,150.00,
+ORD-202606-0082,2026-06-28,Đặng Minh Tuấn,tuan.dang@vgreen.net,V-Green Energy,Hai Phong,SKU-3002,5.0,19.0,95.0,Desk Lamp LED,Office,19.00,
+ORD-202606-0083,2026-06-29,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,
+ORD-202607-0001,2026-07-01,Võ Thị Lan,lan.vo@thinh.vn,Thịnh Phát Laundry,Can Tho,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202607-0002,2026-07-02,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,
+ORD-202607-0003,2026-02-07,Kevin Tran,,Tran & Sons,San Jose,SKU-3003,8.0,32.5,260.0,Ergonomic Footrest,Office,32.50,"Missing_Email, Date_Mismatch"
+ORD-202607-0004,2026-07-02,Phạm Quốc Huy,huy.pham@phong.vn,Phong Phúc Thịnh,Da Nang,SKU-2002,4.0,90.0,360.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202607-0005,2026-07-02,Michael Brown,brown.michael@lakeside.net,Lakeside Hardware,Chicago,SKU-3003,2.0,35.75,71.5,Ergonomic Footrest,Office,32.50,
+ORD-202607-0006,2026-02-07,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202607-0007,2026-02-07,Hiroshi Tanaka,tanaka.hiroshi@sakura.com,Sakura Trading KK,Osaka,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202607-0008,2026-07-03,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-2001,4.0,45.0,180.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0009,2026-03-07,Nguyễn Văn An,an.nguyen@minh.co,,Ho Chi Minh City,SKU-1003,3.0,8.75,26.25,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202607-0010,2026-07-03,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-2003,10.0,150.0,1500.0,Webcam 4K,Peripherals,150.00,
+ORD-202607-0011,2026-03-07,Hồ Ngọc Mai,,Mekong Fresh JSC,Can Tho,SKU-1001,8.0,12.0,96.0,USB-C Cable 1m,Accessories,12.50,"Missing_Email, Date_Mismatch"
+ORD-202607-0012,2026-04-07,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202607-0013,2026-07-04,Linda Nguyen,nguyen.linda@saigon.com,Saigon Bay Foods,Houston,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,
+ORD-202607-0014,2026-05-07,Anna Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202607-0015,2026-05-07,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202607-0016,2026-05-07,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202607-0017,2026-06-07,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-1002,10.0,24.99,249.89999999999998,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202607-0018,2026-06-07,Võ Thị Lan,lan.vo@thinh.vn,Thịnh Phát Laundry,Can Tho,SKU-2001,8.0,45.0,360.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202607-0019,2026-06-07,Anna Müller,muller.anna@rheinland.co,Rheinland GmbH,Berlin,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202607-0020,2026-06-07,Hiroshi Tanaka,"tanaka.hiroshi@sakura,com",Sakura Trading KK,Osaka,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,"Invalid_Email, Date_Mismatch"
+ORD-202607-0021,2026-07-07,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-2001,2.0,47.0,94.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0022,2026-07-07,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0023,2026-07-07,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,
+ORD-202607-0024,2026-08-07,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-3003,6.0,3250.0,19500.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202607-0025,2026-08-07,Dương Anh Khoa,khoa.duong@binh.com,Bình An Pharma,Ho Chi Minh City,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202607-0026,2026-07-08,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-3001,6.0,5.46,32.76,Cable Organizer Pack,Office,5.20,
+ORD-202607-0027,2026-08-07,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-3003,4.0,32.5,130.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202607-0028,2026-08-07,Phạm Quốc Huy,huy.pham@phong.vn,Phong Phúc Thịnh,Da Nang,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202607-0029,2026-09-07,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202607-0030,2026-09-07,Dương Anh Khoa,khoa.duong@binh.vn,Bình An Pharma,Ho Chi Minh City,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202607-0031,2026-10-07,Tom Wilson,wilson.tom@greenfield.vn,Greenfield Co,Denver,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202607-0032,2026-11-07,Hồ Ngọc Mai,mai.ho@mekong.net,Mekong Fresh JSC,Can Tho,SKU-4001,6.0,220.0,1320.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202607-0033,2026-07-11,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,
+ORD-202607-0034,2026-07-11,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-2001,3.0,45.0,135.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0035,2026-12-07,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-3003,5.0,32.0,160.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202607-0036,2026-07-13,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,
+ORD-202607-0037,2026-07-13,Marie Dubois,,Atelier Dubois,Lyon,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,Missing_Email
+ORD-202607-0038,2026-07-13,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-2003,1.0,142.5,142.5,Webcam 4K,Peripherals,150.00,
+ORD-202607-0039,2026-07-14,Võ Thị Lan,,Thịnh Phát Laundry,Can Tho,SKU-3003,8.0,32.5,260.0,Ergonomic Footrest,Office,32.50,Missing_Email
+ORD-202607-0040,2026-07-14,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-2003,10.0,150.0,1500.0,Webcam 4K,Peripherals,150.00,
+ORD-202607-0041,2026-07-15,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-2001,8.0,45.0,360.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0042,2026-07-15,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-3002,3.0,19.0,57.0,Desk Lamp LED,Office,19.00,
+ORD-202607-0043,2026-07-15,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0044,2026-07-16,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202607-0045,2026-07-16,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-2002,4.0,89.9,359.6,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202607-0046,2026-07-17,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,
+ORD-202607-0047,2026-07-18,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,
+ORD-202607-0048,2026-07-18,Trần Thị Bích,bich.tran@sao.co,"Sao Mai Co., Ltd",Hanoi,SKU-3001,3.0,5.46,16.38,Cable Organizer Pack,Office,5.20,
+ORD-202607-0049,2026-07-19,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-1003,8.0,8.75,70.0,Phone Stand,Accessories,8.75,
+ORD-202607-0050,2026-07-19,Phạm Quốc Huy,huy.pham@phong.vn,Phong Phúc Thịnh,Da Nang,SKU-1003,3.0,9.0,27.0,Phone Stand,Accessories,8.75,
+ORD-202607-0051,2026-07-20,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,
+ORD-202607-0052,2026-07-21,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,
+ORD-202607-0053,2026-07-22,Anna Müller,muller.anna@rheinland.co,Rheinland GmbH,Berlin,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,
+ORD-202607-0054,2026-07-22,Dương Anh Khoa,khoa.duong@binh.com,Bình An Pharma,Ho Chi Minh City,SKU-1001,1.0,12.5,12.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202607-0055,2026-07-23,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0056,2026-07-24,Trần Thị Bích,,"Sao Mai Co., Ltd",Hanoi,SKU-4001,10.0,220.0,2200.0,Docking Station Pro,Hardware,220.00,Missing_Email
+ORD-202607-0057,2026-07-24,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-3002,4.0,19.0,76.0,Desk Lamp LED,Office,19.00,
+ORD-202607-0058,2026-07-24,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,
+ORD-202607-0059,2026-07-25,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-2001,5.0,45.0,225.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0060,2026-07-25,Michael Brown,brown.michael@lakeside.vn,Lakeside Hardware,Chicago,SKU-1002,3.0,24.99,74.97,Wireless Mouse,Accessories,24.99,
+ORD-202607-0061,2026-07-25,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,
+ORD-202607-0062,2026-07-25,Kevin Tran,tran.kevin@tran.co,Tran & Sons,San Jose,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0063,2026-07-26,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,
+ORD-202607-0064,2026-07-26,Linda Nguyen,nguyen.linda@saigon.com,Saigon Bay Foods,Houston,SKU-3003,4.0,29.25,117.0,Ergonomic Footrest,Office,32.50,
+ORD-202607-0065,2026-07-26,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,SKU-3001,10.0,5.2,52.0,Cable Organizer Pack,Office,5.20,
+ORD-202607-0066,2026-07-26,Hiroshi Tanaka,tanaka.hiroshi@sakura.vn,Sakura Trading KK,Osaka,SKU-3001,8.0,4.94,39.52,Cable Organizer Pack,Office,5.20,
+ORD-202607-0067,2026-07-27,Hồ Ngọc Mai,mai.ho@mekong.net,Mekong Fresh JSC,Can Tho,SKU-2002,4.0,8990.0,35960.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202607-0068,2026-07-27,Linda Nguyen,nguyen.linda@saigon.com,Saigon Bay Foods,Houston,SKU-2002,3.0,94.4,283.20000000000005,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202607-0069,2026-07-27,Lý Gia Bảo,bao.ly@rong.co,Rồng Việt Media,Hue,SKU-3003,10.0,34.12,341.2,Ergonomic Footrest,Office,32.50,
+ORD-202607-0070,2026-07-28,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-1003,5.0,8.75,43.75,Phone Stand,Accessories,8.75,
+ORD-202607-0071,2026-07-28,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-3001,3.0,5.2,15.600000000000001,Cable Organizer Pack,Office,5.20,
+ORD-202607-0072,2026-07-31,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202607-0073,2026-07-31,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-2001,10.0,45.0,450.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202607-0074,2026-07-31,Đặng Minh Tuấn,,V-Green Energy,Hai Phong,SKU-2001,8.0,45.0,360.0,Mechanical Keyboard,Peripherals,45.00,Missing_Email
+ORD-202607-0075,2026-07-31,Olivia Martin,martin.olivia,Harbor Point Inc,Portland,SKU-3002,4.0,17.1,68.4,Desk Lamp LED,Office,19.00,Invalid_Email
+ORD-202607-0076,2026-07-31,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-3003,4.0,32.5,130.0,Ergonomic Footrest,Office,32.50,
+ORD-202607-0077,2026-07-31,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-4001,5.0,220.0,1100.0,Docking Station Pro,Hardware,220.00,
+ORD-202607-0078,2026-07-31,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-4001,10.0,220.0,2200.0,Docking Station Pro,Hardware,220.00,
+ORD-202608-0001,2026-08-01,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202608-0002,2026-01-08,Anna Müller,muller.anna@rheinland.co,Rheinland GmbH,Berlin,SKU-2001,10.0,4500.0,45000.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202608-0003,2026-01-08,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-2003,3.0,150.0,450.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202608-0004,2026-01-08,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202608-0005,2026-08-02,Marie Dubois,dubois.marie@atelier.co,Atelier Dubois,Lyon,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202608-0006,2026-02-08,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-3001,10.0,5.46,54.6,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202608-0007,2026-02-08,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-3003,2.0,32.0,64.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202608-0008,2026-02-08,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-1002,6.0,25.0,150.0,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202608-0009,2026-03-08,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-3001,6.0,5.2,31.200000000000003,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202608-0010,2026-04-08,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202608-0011,2026-04-08,Carlos Mendes,mendes.carlos,,Sao Paulo,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,"Invalid_Email, Date_Mismatch"
+ORD-202608-0012,2026-05-08,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-1003,10.0,7.88,78.8,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202608-0013,2026-05-08,Hiroshi Tanaka,tanaka.hiroshi@sakura.com,Sakura Trading KK,Osaka,SKU-2002,3.0,89.9,269.70000000000005,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202608-0014,2026-08-06,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-2001,1.0,47.25,47.25,Mechanical Keyboard,Peripherals,45.00,
+ORD-202608-0015,2026-08-06,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202608-0016,2026-08-06,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,
+ORD-202608-0017,2026-06-08,Hiroshi Tanaka,tanaka.hiroshi@sakura.vn,Sakura Trading KK,Osaka,SKU-2003,4.0,150.0,600.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202608-0018,2026-08-07,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202608-0019,2026-07-08,Lê Hoàng Nam,nam.le,Thiên Quý Group,Can Tho,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,"Invalid_Email, Date_Mismatch"
+ORD-202608-0020,2026-07-08,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202608-0021,2026-08-07,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202608-0022,2026-08-08,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,
+ORD-202608-0023,2026-09-08,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-2002,3.0,89.9,269.70000000000005,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202608-0024,2026-09-08,Marie Dubois,dubois.marie@atelier.com,,Lyon,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202608-0025,2026-09-08,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202608-0026,2026-10-08,Tom Wilson,wilson.tom@greenfield.com,Greenfield Co,Denver,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202608-0027,2026-11-08,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-1003,6.0,8.75,52.5,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202608-0028,2026-11-08,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-2002,6.0,89.9,539.4000000000001,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202608-0029,2026-08-12,Kevin Tran,tran.kevin,Tran & Sons,San Jose,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,Invalid_Email
+ORD-202608-0030,2026-08-13,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,
+ORD-202608-0031,2026-08-13,Michael Brown,brown.michael,Lakeside Hardware,Chicago,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,Invalid_Email
+ORD-202608-0032,2026-08-14,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-1002,4.0,2499.0,9996.0,Wireless Mouse,Accessories,24.99,
+ORD-202608-0033,2026-08-14,Anna Müller,muller.anna@rheinland.co,Rheinland GmbH,Berlin,SKU-4001,6.0,220.0,1320.0,Docking Station Pro,Hardware,220.00,
+ORD-202608-0034,2026-08-14,Lê Hoàng Nam,,Thiên Quý Group,Can Tho,SKU-1003,5.0,8.75,43.75,Phone Stand,Accessories,8.75,Missing_Email
+ORD-202608-0035,2026-08-15,Phạm Quốc Huy,huy.pham@phong.net,Phong Phúc Thịnh,Da Nang,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,
+ORD-202608-0036,2026-08-15,Linda Nguyen,,Saigon Bay Foods,Houston,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,Missing_Email
+ORD-202608-0037,2026-08-15,Hồ Ngọc Mai,mai.ho@mekong.com,,Can Tho,SKU-1001,3.0,12.5,37.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202608-0038,2026-08-16,Nguyễn Văn An,an.nguyen@minh.vn,Minh Phát Trading,Ho Chi Minh City,SKU-2001,5.0,40.5,202.5,Mechanical Keyboard,Peripherals,45.00,
+ORD-202608-0039,2026-08-16,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-3002,5.0,19.0,95.0,Desk Lamp LED,Office,19.00,
+ORD-202608-0040,2026-08-16,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-1003,1.0,7.88,7.88,Phone Stand,Accessories,8.75,
+ORD-202608-0041,2026-08-16,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-1001,1.0,11.25,11.25,USB-C Cable 1m,Accessories,12.50,
+ORD-202608-0042,2026-08-17,Lý Gia Bảo,bao.ly@rong.co,Rồng Việt Media,Hue,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202608-0043,2026-08-17,Emily Carter,carter.emily@northwind.co,,Seattle,SKU-1001,10.0,12.5,125.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202608-0044,2026-08-17,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-3002,1.0,20.9,20.9,Desk Lamp LED,Office,19.00,
+ORD-202608-0045,2026-08-17,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-2002,6.0,89.9,539.4000000000001,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202608-0046,2026-08-18,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,
+ORD-202608-0047,2026-08-18,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-2002,3.0,89.9,269.70000000000005,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202608-0048,2026-08-18,Linda Nguyen,,Saigon Bay Foods,Houston,SKU-1002,5.0,24.99,124.94999999999999,Wireless Mouse,Accessories,24.99,Missing_Email
+ORD-202608-0049,2026-08-19,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,
+ORD-202608-0050,2026-08-20,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-2003,1.0,150.0,150.0,Webcam 4K,Peripherals,150.00,
+ORD-202608-0051,2026-08-20,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-1001,3.0,12.5,37.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202608-0052,2026-08-20,Lê Hoàng Nam,,Thiên Quý Group,Can Tho,SKU-4001,4.0,220.0,880.0,Docking Station Pro,Hardware,220.00,Missing_Email
+ORD-202608-0053,2026-08-21,Phạm Quốc Huy,huy.pham@phong.co,,Da Nang,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202608-0054,2026-08-21,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202608-0055,2026-08-22,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202608-0056,2026-08-22,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202608-0057,2026-08-23,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-3003,2.0,34.12,68.24,Ergonomic Footrest,Office,32.50,
+ORD-202608-0058,2026-08-23,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,
+ORD-202608-0059,2026-08-23,Sarah Johnson,johnson.sarah@blue.vn,Blue Harbor LLC,Boston,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202608-0060,2026-08-23,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-2002,4.0,94.0,376.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202608-0061,2026-08-24,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202608-0062,2026-08-24,John Smith,,Brightway Supplies,Austin,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,Missing_Email
+ORD-202608-0063,2026-08-24,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-2003,2.0,135.0,270.0,Webcam 4K,Peripherals,150.00,
+ORD-202608-0064,2026-08-24,Anna Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-3003,6.0,32.5,195.0,Ergonomic Footrest,Office,32.50,
+ORD-202608-0065,2026-08-25,Anna Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-2001,4.0,42.75,171.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202608-0066,2026-08-26,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-2003,2.0,142.5,285.0,Webcam 4K,Peripherals,150.00,
+ORD-202608-0067,2026-08-26,Kevin Tran,tran.kevin@tran.net,Tran & Sons,San Jose,SKU-3002,5.0,19.0,95.0,Desk Lamp LED,Office,19.00,
+ORD-202608-0068,2026-08-26,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-4001,5.0,198.0,990.0,Docking Station Pro,Hardware,220.00,
+ORD-202608-0069,2026-08-26,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202608-0070,2026-08-27,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,
+ORD-202608-0071,2026-08-27,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-3001,5.0,5.72,28.599999999999998,Cable Organizer Pack,Office,5.20,
+ORD-202608-0072,2026-08-28,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-1002,4.0,24.99,99.96,Wireless Mouse,Accessories,24.99,
+ORD-202608-0073,2026-08-28,David Lee,,Pacific Rim Imports,San Diego,SKU-2001,10.0,45.0,450.0,Mechanical Keyboard,Peripherals,45.00,Missing_Email
+ORD-202608-0074,2026-08-28,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-2003,4.0,150.0,600.0,Webcam 4K,Peripherals,150.00,
+ORD-202608-0075,2026-08-29,Anna Müller,,Rheinland GmbH,Berlin,SKU-2003,10.0,135.0,1350.0,Webcam 4K,Peripherals,150.00,Missing_Email
+ORD-202608-0076,2026-08-29,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-4001,4.0,220.0,880.0,Docking Station Pro,Hardware,220.00,
+ORD-202608-0077,2026-08-30,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,SKU-3001,4.0,5.2,20.8,Cable Organizer Pack,Office,5.20,
+ORD-202608-0078,2026-08-30,Hiroshi Tanaka,tanaka.hiroshi@sakura.net,Sakura Trading KK,Osaka,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,
+ORD-202608-0079,2026-08-30,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,
+ORD-202608-0080,2026-08-31,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-3001,5.0,5.2,26.0,Cable Organizer Pack,Office,5.20,
+ORD-202608-0081,2026-08-31,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-2002,3.0,80.91,242.73,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202608-0082,2026-08-31,Hồ Ngọc Mai,mai.ho@mekong.com,Mekong Fresh JSC,Can Tho,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202608-0083,2026-08-31,Anna Müller,muller.anna@rheinland.co,Rheinland GmbH,Berlin,SKU-3002,2.0,1900.0,3800.0,Desk Lamp LED,Office,19.00,
+ORD-202609-0001,2026-01-09,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-3003,2.0,32.0,64.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202609-0002,2026-02-09,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-4001,3.0,209.0,627.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202609-0003,2026-03-09,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-3003,3.0,32.5,97.5,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202609-0004,2026-04-09,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-3003,10.0,32.5,325.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202609-0005,2026-04-09,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-1001,5.0,11.25,56.25,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202609-0006,2026-05-09,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202609-0007,2026-09-05,Phạm Quốc Huy,huy.pham@phong.net,Phong Phúc Thịnh,Da Nang,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,
+ORD-202609-0008,2026-05-09,Lê Hoàng Nam,nam.le,Thiên Quý Group,Can Tho,SKU-2001,5.0,49.5,247.5,Mechanical Keyboard,Peripherals,45.00,"Invalid_Email, Date_Mismatch"
+ORD-202609-0009,2026-06-09,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-1001,4.0,1312.0,5248.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202609-0010,2026-09-06,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,
+ORD-202609-0011,2026-07-09,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202609-0012,2026-07-09,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-4001,6.0,220.0,1320.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202609-0013,2026-07-09,Marie Dubois,dubois.marie@atelier.co,Atelier Dubois,Lyon,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202609-0014,2026-07-09,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-2001,6.0,40.5,243.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202609-0015,2026-07-09,Dương Anh Khoa,khoa.duong@binh.com,Bình An Pharma,Ho Chi Minh City,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202609-0016,2026-07-09,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202609-0017,2026-07-09,Lý Gia Bảo,bao.ly@rong.co,Rồng Việt Media,Hue,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202609-0018,2026-08-09,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202609-0019,2026-08-09,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202609-0020,2026-09-09,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,
+ORD-202609-0021,2026-09-09,Linda Nguyen,nguyen.linda@saigon.com,Saigon Bay Foods,Houston,SKU-1003,3.0,8.75,26.25,Phone Stand,Accessories,8.75,
+ORD-202609-0022,2026-09-09,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,
+ORD-202609-0023,2026-10-09,Hiroshi Tanaka,tanaka.hiroshi@sakura.net,Sakura Trading KK,Osaka,SKU-2001,10.0,49.5,495.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202609-0024,2026-10-09,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202609-0025,2026-11-09,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202609-0026,2026-11-09,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-3002,8.0,19.0,152.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202609-0027,2026-11-09,Anna Müller,muller.anna,Rheinland GmbH,Berlin,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,"Invalid_Email, Date_Mismatch"
+ORD-202609-0028,2026-12-09,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-2001,8.0,47.25,378.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202609-0029,2026-12-09,Phạm Quốc Huy,huy.pham@phong.net,Phong Phúc Thịnh,Da Nang,SKU-1001,5.0,12.0,60.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202609-0030,2026-12-09,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202609-0031,2026-09-13,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-3001,5.0,5.2,26.0,Cable Organizer Pack,Office,5.20,
+ORD-202609-0032,2026-09-13,Kevin Tran,tran.kevin@tran.co,Tran & Sons,San Jose,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202609-0033,2026-09-13,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-2003,1.0,150.0,150.0,Webcam 4K,Peripherals,150.00,
+ORD-202609-0034,2026-09-13,Phạm Quốc Huy,,Phong Phúc Thịnh,Da Nang,SKU-2001,3.0,45.0,135.0,Mechanical Keyboard,Peripherals,45.00,Missing_Email
+ORD-202609-0035,2026-09-14,Tom Wilson,wilson.tom@greenfield.vn,Greenfield Co,Denver,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202609-0036,2026-09-14,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-3002,4.0,19.0,76.0,Desk Lamp LED,Office,19.00,
+ORD-202609-0037,2026-09-14,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,
+ORD-202609-0038,2026-09-15,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-1003,5.0,8.75,43.75,Phone Stand,Accessories,8.75,
+ORD-202609-0039,2026-09-15,Võ Thị Lan,lan.vo@thinh.co,Thịnh Phát Laundry,Can Tho,SKU-3001,3.0,5.0,15.0,Cable Organizer Pack,Office,5.20,
+ORD-202609-0040,2026-09-15,John Smith,smith.john@brightway.net,Brightway Supplies,Austin,SKU-1003,3.0,8.75,26.25,Phone Stand,Accessories,8.75,
+ORD-202609-0041,2026-09-15,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-2001,1.0,47.25,47.25,Mechanical Keyboard,Peripherals,45.00,
+ORD-202609-0042,2026-09-15,Hồ Ngọc Mai,mai.ho@mekong.com,Mekong Fresh JSC,Can Tho,SKU-1002,5.0,24.99,124.94999999999999,Wireless Mouse,Accessories,24.99,
+ORD-202609-0043,2026-09-15,Nguyễn Văn An,an.nguyen@minh.vn,Minh Phát Trading,Ho Chi Minh City,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202609-0044,2026-09-16,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-3001,10.0,5.2,52.0,Cable Organizer Pack,Office,5.20,
+ORD-202609-0045,2026-09-16,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-1003,1.0,9.19,9.19,Phone Stand,Accessories,8.75,
+ORD-202609-0046,2026-09-17,Trần Thị Bích,bich.tran@sao.vn,"Sao Mai Co., Ltd",Hanoi,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202609-0047,2026-09-18,Linda Nguyen,nguyen.linda@saigon.com,,Houston,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202609-0048,2026-09-18,Lý Gia Bảo,bao.ly@rong.co,Rồng Việt Media,Hue,SKU-3003,4.0,32.5,130.0,Ergonomic Footrest,Office,32.50,
+ORD-202609-0049,2026-09-18,Kevin Tran,tran.kevin,Tran & Sons,San Jose,SKU-1001,1.0,12.0,12.0,USB-C Cable 1m,Accessories,12.50,Invalid_Email
+ORD-202609-0050,2026-09-19,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-2001,5.0,45.0,225.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202609-0051,2026-09-20,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-1003,10.0,8.75,87.5,Phone Stand,Accessories,8.75,
+ORD-202609-0052,2026-09-21,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-1003,3.0,8.75,26.25,Phone Stand,Accessories,8.75,
+ORD-202609-0053,2026-09-21,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-1002,10.0,24.99,249.89999999999998,Wireless Mouse,Accessories,24.99,
+ORD-202609-0054,2026-09-21,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-1002,1.0,24.0,24.0,Wireless Mouse,Accessories,24.99,
+ORD-202609-0055,2026-09-22,Tom Wilson,wilson.tom@greenfield.vn,Greenfield Co,Denver,SKU-3001,8.0,4.94,39.52,Cable Organizer Pack,Office,5.20,
+ORD-202609-0056,2026-09-22,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202609-0057,2026-09-22,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,
+ORD-202609-0058,2026-09-23,Linda Nguyen,nguyen.linda@saigon.com,Saigon Bay Foods,Houston,SKU-3001,8.0,5.72,45.76,Cable Organizer Pack,Office,5.20,
+ORD-202609-0059,2026-09-24,Hiroshi Tanaka,tanaka.hiroshi@sakura.net,Sakura Trading KK,Osaka,SKU-2003,1.0,15000.0,15000.0,Webcam 4K,Peripherals,150.00,
+ORD-202609-0060,2026-09-24,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-3002,4.0,1995.0,7980.0,Desk Lamp LED,Office,19.00,
+ORD-202609-0061,2026-09-24,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-1001,8.0,12.5,100.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202609-0062,2026-09-24,Bùi Thanh Hà,ha.bui@nam.com,Năm Căn Logistics,Ca Mau,SKU-1002,6.0,27.49,164.94,Wireless Mouse,Accessories,24.99,
+ORD-202609-0063,2026-09-25,Michael Brown,brown.michael@lakeside.net,Lakeside Hardware,Chicago,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,
+ORD-202609-0064,2026-09-25,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202609-0065,2026-09-25,Tom Wilson,wilson.tom@greenfield.vn,Greenfield Co,Denver,SKU-2003,1.0,165.0,165.0,Webcam 4K,Peripherals,150.00,
+ORD-202609-0066,2026-09-27,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202609-0067,2026-09-27,Phạm Quốc Huy,huy.pham@phong.co,Phong Phúc Thịnh,Da Nang,SKU-1001,6.0,12.5,75.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202609-0068,2026-09-27,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-1001,4.0,11.88,47.52,USB-C Cable 1m,Accessories,12.50,
+ORD-202609-0069,2026-09-28,Marie Dubois,dubois.marie,Atelier Dubois,Lyon,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,Invalid_Email
+ORD-202609-0070,2026-09-28,Carlos Mendes,mendes.carlos@mendes.co,Mendes Comercio,Sao Paulo,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202609-0071,2026-09-28,Carlos Mendes,mendes.carlos@mendes.net,Mendes Comercio,Sao Paulo,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202609-0072,2026-09-28,Võ Thị Lan,lan.vo@thinh.vn,Thịnh Phát Laundry,Can Tho,SKU-3001,2.0,5.46,10.92,Cable Organizer Pack,Office,5.20,
+ORD-202609-0073,2026-09-28,Đặng Minh Tuấn,tuan.dang@vgreen.net,V-Green Energy,Hai Phong,SKU-2003,6.0,150.0,900.0,Webcam 4K,Peripherals,150.00,
+ORD-202609-0074,2026-09-28,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202609-0075,2026-09-28,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202609-0076,2026-09-28,Sarah Johnson,johnson.sarah@blue.co,Blue Harbor LLC,Boston,SKU-1002,5.0,22.49,112.44999999999999,Wireless Mouse,Accessories,24.99,
+ORD-202609-0077,2026-09-29,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,
+ORD-202609-0078,2026-09-30,John Smith,smith.john@brightway.net,Brightway Supplies,Austin,SKU-3002,5.0,19.0,95.0,Desk Lamp LED,Office,19.00,
+ORD-202609-0079,2026-09-30,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,
+ORD-202610-0001,2026-10-01,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,
+ORD-202610-0002,2026-10-01,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-3001,3.0,5.0,15.0,Cable Organizer Pack,Office,5.20,
+ORD-202610-0003,2026-02-10,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202610-0004,2026-02-10,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-3003,6.0,32.5,195.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202610-0005,2026-03-10,Võ Thị Lan,lan.vo@thinh.vn,Thịnh Phát Laundry,Can Tho,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202610-0006,2026-10-03,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-2001,2.0,45.0,90.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202610-0007,2026-03-10,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202610-0008,2026-10-04,Michael Brown,brown.michael@lakeside.co,,Chicago,SKU-3001,6.0,4.68,28.08,Cable Organizer Pack,Office,5.20,
+ORD-202610-0009,2026-04-10,Hồ Ngọc Mai,mai.ho@mekong.net,Mekong Fresh JSC,Can Tho,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202610-0010,2026-04-10,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-4001,1.0,22000.0,22000.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202610-0011,2026-04-10,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202610-0012,2026-04-10,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202610-0013,2026-04-10,Linda Nguyen,nguyen.linda@saigon.com,Saigon Bay Foods,Houston,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202610-0014,2026-05-10,Kevin Tran,,Tran & Sons,San Jose,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,"Missing_Email, Date_Mismatch"
+ORD-202610-0015,2026-05-10,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-1002,5.0,24.99,124.94999999999999,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202610-0016,2026-05-10,Phạm Quốc Huy,huy.pham@phong.co,Phong Phúc Thịnh,Da Nang,SKU-1001,1.0,12.5,12.5,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202610-0017,2026-10-06,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202610-0018,2026-06-10,Tom Wilson,wilson.tom@greenfield.com,Greenfield Co,Denver,SKU-4001,10.0,242.0,2420.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202610-0019,2026-06-10,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-3003,10.0,32.5,325.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202610-0020,2026-07-10,Phạm Quốc Huy,huy.pham@phong.co,Phong Phúc Thịnh,Da Nang,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202610-0021,2026-07-10,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-2002,4.0,89.9,359.6,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202610-0022,2026-07-10,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202610-0023,2026-07-10,Hiroshi Tanaka,tanaka.hiroshi@sakura.vn,Sakura Trading KK,Osaka,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202610-0024,2026-07-10,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202610-0025,2026-07-10,John Smith,smith.john@brightway.co,Brightway Supplies,Austin,SKU-2001,6.0,45.0,270.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202610-0026,2026-08-10,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-2001,1.0,4500.0,4500.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202610-0027,2026-08-10,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202610-0028,2026-10-09,Hiroshi Tanaka,tanaka.hiroshi@sakura.com,Sakura Trading KK,Osaka,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202610-0029,2026-09-10,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-4001,3.0,22000.0,66000.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202610-0030,2026-09-10,Lê Hoàng Nam,,Thiên Quý Group,Can Tho,SKU-1001,1.0,12.5,12.5,USB-C Cable 1m,Accessories,12.50,"Missing_Email, Date_Mismatch"
+ORD-202610-0031,2026-09-10,Bùi Thanh Hà,ha.bui@nam.com,Năm Căn Logistics,Ca Mau,SKU-2003,10.0,150.0,1500.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202610-0032,2026-10-09,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-2003,5.0,165.0,825.0,Webcam 4K,Peripherals,150.00,
+ORD-202610-0033,2026-09-10,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202610-0034,2026-10-10,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202610-0035,2026-10-10,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202610-0036,2026-10-10,John Smith,smith.john@brightway.co,,Austin,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202610-0037,2026-11-10,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-1003,4.0,8.31,33.24,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202610-0038,2026-11-10,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202610-0039,2026-12-10,David Lee,lee.david,Pacific Rim Imports,San Diego,SKU-1001,2.0,1250.0,2500.0,USB-C Cable 1m,Accessories,12.50,"Invalid_Email, Date_Mismatch"
+ORD-202610-0040,2026-12-10,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-1001,2.0,13.12,26.24,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202610-0041,2026-10-13,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-1003,4.0,9.19,36.76,Phone Stand,Accessories,8.75,
+ORD-202610-0042,2026-10-14,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-2002,6.0,90.0,540.0,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202610-0043,2026-10-14,Phạm Quốc Huy,huy.pham@phong.com,Phong Phúc Thịnh,Da Nang,SKU-3001,5.0,5.46,27.3,Cable Organizer Pack,Office,5.20,
+ORD-202610-0044,2026-10-14,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,
+ORD-202610-0045,2026-10-14,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-2002,5.0,89.9,449.5,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202610-0046,2026-10-14,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-3003,2.0,32.0,64.0,Ergonomic Footrest,Office,32.50,
+ORD-202610-0047,2026-10-16,Hồ Ngọc Mai,mai.ho@mekong.com,Mekong Fresh JSC,Can Tho,SKU-3003,2.0,3250.0,6500.0,Ergonomic Footrest,Office,32.50,
+ORD-202610-0048,2026-10-16,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-2003,1.0,150.0,150.0,Webcam 4K,Peripherals,150.00,
+ORD-202610-0049,2026-10-16,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,
+ORD-202610-0050,2026-10-17,Đặng Minh Tuấn,tuan.dang,V-Green Energy,Hai Phong,SKU-2002,3.0,8990.0,26970.0,27-inch Monitor Arm,Peripherals,89.90,Invalid_Email
+ORD-202610-0051,2026-10-17,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-2001,6.0,49.5,297.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202610-0052,2026-10-17,Phạm Quốc Huy,huy.pham@phong.vn,Phong Phúc Thịnh,Da Nang,SKU-4001,8.0,220.0,1760.0,Docking Station Pro,Hardware,220.00,
+ORD-202610-0053,2026-10-17,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",Hanoi,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202610-0054,2026-10-17,Linda Nguyen,nguyen.linda@saigon.net,Saigon Bay Foods,Houston,SKU-2001,10.0,45.0,450.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202610-0055,2026-10-18,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202610-0056,2026-10-19,Kevin Tran,tran.kevin@tran.com,Tran & Sons,San Jose,SKU-3001,10.0,5.2,52.0,Cable Organizer Pack,Office,5.20,
+ORD-202610-0057,2026-10-19,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202610-0058,2026-10-20,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-2001,4.0,45.0,180.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202610-0059,2026-10-20,Phạm Quốc Huy,huy.pham@phong.net,Phong Phúc Thịnh,Da Nang,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,
+ORD-202610-0060,2026-10-20,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202610-0061,2026-10-20,Trần Thị Bích,bich.tran@sao.vn,"Sao Mai Co., Ltd",Hanoi,SKU-1002,10.0,24.99,249.89999999999998,Wireless Mouse,Accessories,24.99,
+ORD-202610-0062,2026-10-21,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-3001,5.0,5.2,26.0,Cable Organizer Pack,Office,5.20,
+ORD-202610-0063,2026-10-21,Đặng Minh Tuấn,,,Hai Phong,SKU-1001,10.0,12.5,125.0,USB-C Cable 1m,Accessories,12.50,Missing_Email
+ORD-202610-0064,2026-10-21,Lý Gia Bảo,bao.ly@rong.com,Rồng Việt Media,Hue,SKU-4001,10.0,220.0,2200.0,Docking Station Pro,Hardware,220.00,
+ORD-202610-0065,2026-10-22,Lê Hoàng Nam,nam.le@thien.co,Thiên Quý Group,Can Tho,SKU-1002,2.0,22.49,44.98,Wireless Mouse,Accessories,24.99,
+ORD-202610-0066,2026-10-22,Olivia Martin,,Harbor Point Inc,Portland,SKU-3001,10.0,5.2,52.0,Cable Organizer Pack,Office,5.20,Missing_Email
+ORD-202610-0067,2026-10-25,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202610-0068,2026-10-25,Hiroshi Tanaka,tanaka.hiroshi@sakura.vn,Sakura Trading KK,Osaka,SKU-1001,5.0,12.5,62.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202610-0069,2026-10-26,Tom Wilson,wilson.tom@greenfield.com,,Denver,SKU-3003,6.0,32.5,195.0,Ergonomic Footrest,Office,32.50,
+ORD-202610-0070,2026-10-27,Michael Brown,brown.michael@lakeside.net,Lakeside Hardware,Chicago,SKU-3002,4.0,19.0,76.0,Desk Lamp LED,Office,19.00,
+ORD-202610-0071,2026-10-27,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,
+ORD-202610-0072,2026-10-28,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-3002,10.0,19.0,190.0,Desk Lamp LED,Office,19.00,
+ORD-202610-0073,2026-10-28,John Smith,smith.john@brightway.vn,Brightway Supplies,Austin,SKU-2003,5.0,150.0,750.0,Webcam 4K,Peripherals,150.00,
+ORD-202610-0074,2026-10-29,Hồ Ngọc Mai,mai.ho@mekong.com,Mekong Fresh JSC,Can Tho,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202610-0075,2026-10-29,Võ Thị Lan,,Thịnh Phát Laundry,Can Tho,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,Missing_Email
+ORD-202610-0076,2026-10-29,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-1001,8.0,12.5,100.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202610-0077,2026-10-30,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-2002,3.0,89.9,269.70000000000005,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202610-0078,2026-10-31,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-1001,3.0,12.5,37.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202610-0079,2026-10-31,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-2001,1.0,45.0,45.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202611-0001,2026-01-11,Dương Anh Khoa,khoa.duong@binh.co,Bình An Pharma,Ho Chi Minh City,SKU-1001,10.0,11.25,112.5,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202611-0002,2026-11-01,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,
+ORD-202611-0003,2026-11-01,Priya Sharma,,Lotus Exports Pvt,Mumbai,SKU-3001,4.0,5.2,20.8,Cable Organizer Pack,Office,5.20,Missing_Email
+ORD-202611-0004,2026-01-11,Nguyễn Văn An,an.nguyen@minh.co,,Ho Chi Minh City,SKU-2001,2.0,49.5,99.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202611-0005,2026-01-11,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-2003,1.0,157.5,157.5,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202611-0006,2026-01-11,Michael Brown,brown.michael@lakeside.vn,Lakeside Hardware,Chicago,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202611-0007,2026-01-11,David Lee,,Pacific Rim Imports,San Diego,SKU-2002,6.0,90.0,540.0,27-inch Monitor Arm,Peripherals,89.90,"Missing_Email, Date_Mismatch"
+ORD-202611-0008,2026-01-11,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-1003,4.0,875.0,3500.0,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202611-0009,2026-11-01,David Lee,lee.david,Pacific Rim Imports,San Diego,SKU-2001,5.0,45.0,225.0,Mechanical Keyboard,Peripherals,45.00,Invalid_Email
+ORD-202611-0010,2026-01-11,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202611-0011,2026-01-11,Hồ Ngọc Mai,mai.ho@mekong.net,Mekong Fresh JSC,Can Tho,SKU-1001,3.0,12.5,37.5,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202611-0012,2026-01-11,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-2003,1.0,150.0,150.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202611-0013,2026-02-11,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202611-0014,2026-02-11,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-1001,3.0,11.88,35.64,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202611-0015,2026-02-11,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-1001,8.0,12.5,100.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202611-0016,2026-02-11,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Can Tho,SKU-3003,4.0,32.0,128.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202611-0017,2026-11-02,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-3002,4.0,19.0,76.0,Desk Lamp LED,Office,19.00,
+ORD-202611-0018,2026-03-11,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-2002,2.0,89.9,179.8,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202611-0019,2026-03-11,Đặng Minh Tuấn,tuan.dang@vgreen.co,V-Green Energy,Hai Phong,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202611-0020,2026-03-11,Lý Gia Bảo,bao.ly@rong.co,Rồng Việt Media,Hue,SKU-2002,10.0,89.9,899.0,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202611-0021,2026-03-11,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202611-0022,2026-11-04,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-1001,1.0,11.88,11.88,USB-C Cable 1m,Accessories,12.50,
+ORD-202611-0023,2026-04-11,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,Date_Mismatch
+ORD-202611-0024,2026-04-11,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-2001,3.0,45.0,135.0,Mechanical Keyboard,Peripherals,45.00,Date_Mismatch
+ORD-202611-0025,2026-04-11,Anna Müller,muller.anna@rheinland.co,Rheinland GmbH,Berlin,SKU-2003,10.0,150.0,1500.0,Webcam 4K,Peripherals,150.00,Date_Mismatch
+ORD-202611-0026,2026-04-11,Marie Dubois,dubois.marie@atelier.co,Atelier Dubois,Lyon,SKU-4001,3.0,19800.0,59400.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202611-0027,2026-11-05,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-1003,1.0,8.75,8.75,Phone Stand,Accessories,8.75,
+ORD-202611-0028,2026-05-11,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-1002,6.0,24.99,149.94,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202611-0029,2026-05-11,Linda Nguyen,nguyen.linda@saigon.com,Saigon Bay Foods,Houston,SKU-4001,4.0,220.0,880.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202611-0030,2026-11-05,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,SKU-1001,5.0,12.5,62.5,USB-C Cable 1m,Accessories,12.50,
+ORD-202611-0031,2026-06-11,Linda Nguyen,nguyen.linda@saigon.net,Saigon Bay Foods,Houston,SKU-3001,8.0,5.2,41.6,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202611-0032,2026-11-06,Emily Carter,carter.emily@northwind.com,Northwind Retail,Seattle,SKU-1002,4.0,25.0,100.0,Wireless Mouse,Accessories,24.99,
+ORD-202611-0033,2026-11-07,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-3003,2.0,29.25,58.5,Ergonomic Footrest,Office,32.50,
+ORD-202611-0034,2026-07-11,Trần Thị Bích,bich.tran@sao.co,"Sao Mai Co., Ltd",Hanoi,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202611-0035,2026-11-07,Kevin Tran,tran.kevin@tran.vn,Tran & Sons,San Jose,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,
+ORD-202611-0036,2026-07-11,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-1002,3.0,24.99,74.97,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202611-0037,2026-08-11,Tom Wilson,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-2002,1.0,89.9,89.9,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202611-0038,2026-08-11,Lê Hoàng Nam,,,Can Tho,SKU-2001,8.0,45.0,360.0,Mechanical Keyboard,Peripherals,45.00,"Missing_Email, Date_Mismatch"
+ORD-202611-0039,2026-08-11,Priya Sharma,sharma.priya,Lotus Exports Pvt,Mumbai,SKU-3003,4.0,32.5,130.0,Ergonomic Footrest,Office,32.50,"Invalid_Email, Date_Mismatch"
+ORD-202611-0040,2026-08-11,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-3003,2.0,32.5,65.0,Ergonomic Footrest,Office,32.50,Date_Mismatch
+ORD-202611-0041,2026-09-11,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,Sao Paulo,SKU-1002,8.0,24.99,199.92,Wireless Mouse,Accessories,24.99,Date_Mismatch
+ORD-202611-0042,2026-11-09,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-4001,1.0,220.0,220.0,Docking Station Pro,Hardware,220.00,
+ORD-202611-0043,2026-09-11,Michael Brown,brown.michael@lakeside.net,,Chicago,SKU-2002,3.0,80.91,242.73,27-inch Monitor Arm,Peripherals,89.90,Date_Mismatch
+ORD-202611-0044,2026-09-11,David Lee,,Pacific Rim Imports,San Diego,SKU-2002,3.0,85.41,256.23,27-inch Monitor Arm,Peripherals,89.90,"Missing_Email, Date_Mismatch"
+ORD-202611-0045,2026-09-11,Carlos Mendes,mendes.carlos@mendes.co,Mendes Comercio,Sao Paulo,SKU-3001,1.0,5.2,5.2,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202611-0046,2026-11-10,Dương Anh Khoa,khoa.duong@binh.com,Bình An Pharma,Ho Chi Minh City,SKU-3001,1.0,520.0,520.0,Cable Organizer Pack,Office,5.20,
+ORD-202611-0047,2026-11-10,Lê Hoàng Nam,,Thiên Quý Group,Can Tho,SKU-2002,4.0,89.9,359.6,27-inch Monitor Arm,Peripherals,89.90,Missing_Email
+ORD-202611-0048,2026-10-11,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-3001,1.0,4.94,4.94,Cable Organizer Pack,Office,5.20,Date_Mismatch
+ORD-202611-0049,2026-10-11,Michael Brown,brown.michael@lakeside.com,Lakeside Hardware,Chicago,SKU-1001,1.0,12.5,12.5,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202611-0050,2026-10-11,Lê Hoàng Nam,,Thiên Quý Group,Can Tho,SKU-2001,4.0,45.0,180.0,Mechanical Keyboard,Peripherals,45.00,"Missing_Email, Date_Mismatch"
+ORD-202611-0051,2026-11-11,Sarah Johnson,johnson.sarah@blue.com,,Boston,SKU-2003,1.0,150.0,150.0,Webcam 4K,Peripherals,150.00,
+ORD-202611-0052,2026-11-11,Dương Anh Khoa,khoa.duong@binh.vn,Bình An Pharma,Ho Chi Minh City,SKU-3001,2.0,5.2,10.4,Cable Organizer Pack,Office,5.20,
+ORD-202611-0053,2026-11-11,Nguyễn Văn An,,Minh Phát Trading,Ho Chi Minh City,SKU-2003,1.0,150.0,150.0,Webcam 4K,Peripherals,150.00,Missing_Email
+ORD-202611-0054,2026-11-11,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,
+ORD-202611-0055,2026-11-11,Marie Dubois,dubois.marie@atelier.net,Atelier Dubois,Lyon,SKU-1003,6.0,8.75,52.5,Phone Stand,Accessories,8.75,
+ORD-202611-0056,2026-11-11,Olivia Martin,martin.olivia@harbor.com,Harbor Point Inc,Portland,SKU-2003,8.0,150.0,1200.0,Webcam 4K,Peripherals,150.00,
+ORD-202611-0057,2026-11-11,Nguyễn Văn An,an.nguyen,Minh Phát Trading,Ho Chi Minh City,SKU-1002,2.0,24.99,49.98,Wireless Mouse,Accessories,24.99,Invalid_Email
+ORD-202611-0058,2026-11-11,Trần Thị Bích,,"Sao Mai Co., Ltd",Hanoi,SKU-1002,1.0,26.24,26.24,Wireless Mouse,Accessories,24.99,Missing_Email
+ORD-202611-0059,2026-11-11,Kevin Tran,tran.kevin@tran.co,Tran & Sons,San Jose,SKU-1001,4.0,12.5,50.0,USB-C Cable 1m,Accessories,12.50,
+ORD-202611-0060,2026-11-12,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-3002,2.0,19.0,38.0,Desk Lamp LED,Office,19.00,
+ORD-202611-0061,2026-12-11,Linda Nguyen,nguyen.linda@saigon.net,Saigon Bay Foods,Houston,SKU-1001,2.0,12.5,25.0,USB-C Cable 1m,Accessories,12.50,Date_Mismatch
+ORD-202611-0062,2026-12-11,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh City,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,Date_Mismatch
+ORD-202611-0063,2026-12-11,Dương Anh Khoa,khoa.duong@binh.vn,Bình An Pharma,Ho Chi Minh City,SKU-4001,2.0,220.0,440.0,Docking Station Pro,Hardware,220.00,Date_Mismatch
+ORD-202611-0064,2026-11-13,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-3003,1.0,32.5,32.5,Ergonomic Footrest,Office,32.50,
+ORD-202611-0065,2026-11-13,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202611-0066,2026-11-13,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-1003,2.0,8.75,17.5,Phone Stand,Accessories,8.75,
+ORD-202611-0067,2026-11-13,Linda Nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-3002,6.0,19.0,114.0,Desk Lamp LED,Office,19.00,
+ORD-202611-0068,2026-11-13,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-2001,8.0,45.0,360.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202611-0069,2026-11-14,Bùi Thanh Hà,ha.bui@nam.vn,Năm Căn Logistics,Ca Mau,SKU-2002,1.0,94.4,94.4,27-inch Monitor Arm,Peripherals,89.90,
+ORD-202611-0070,2026-11-14,John Smith,smith.john@brightway.co,,Austin,SKU-2003,2.0,150.0,300.0,Webcam 4K,Peripherals,150.00,
+ORD-202611-0071,2026-11-14,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-3002,8.0,19.0,152.0,Desk Lamp LED,Office,19.00,
+ORD-202611-0072,2026-11-14,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,Ho Chi Minh City,SKU-3001,1.0,5.0,5.0,Cable Organizer Pack,Office,5.20,
+ORD-202611-0073,2026-11-14,Carlos Mendes,mendes.carlos@mendes.com,,Sao Paulo,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,
+ORD-202611-0074,2026-11-14,Michael Brown,brown.michael@lakeside.net,Lakeside Hardware,Chicago,SKU-3002,1.0,19.0,19.0,Desk Lamp LED,Office,19.00,
+ORD-202611-0075,2026-11-14,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-2001,10.0,45.0,450.0,Mechanical Keyboard,Peripherals,45.00,
+ORD-202611-0076,2026-11-15,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-1003,4.0,8.75,35.0,Phone Stand,Accessories,8.75,
+ORD-202611-0077,2026-11-15,Lê Hoàng Nam,nam.le@thien.net,Thiên Quý Group,Can Tho,SKU-1002,1.0,24.99,24.99,Wireless Mouse,Accessories,24.99,
+ORD-202611-0078,2026-11-15,Võ Thị Lan,lan.vo@thinh.com,Thịnh Phát Laundry,Can Tho,SKU-4001,3.0,220.0,660.0,Docking Station Pro,Hardware,220.00,
+ORD-202611-0079,2026-11-15,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-3001,6.0,5.2,31.200000000000003,Cable Organizer Pack,Office,5.20,
+ORD-202611-0080,2026-11-15,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-1003,1.0,8.31,8.31,Phone Stand,Accessories,8.75,
+ORD-202611-0081,2026-11-15,Đặng Minh Tuấn,tuan.dang@vgreen.net,V-Green Energy,Hai Phong,SKU-2002,8.0,89.9,719.2,27-inch Monitor Arm,Peripherals,89.90,

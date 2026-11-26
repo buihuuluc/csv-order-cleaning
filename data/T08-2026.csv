@@ -1,0 +1,86 @@
+Order ID,Order Date,Customer Name,Email,Company Name,City,SKU,Quantity,Unit Price (USD),Status Check
+ORD-202608-0001,01/08/2026,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3002,1,19,Completed
+ORD-202608-0002,2026-08-01,Anna Müller,muller.anna@rheinland.co,Rheinland GmbH,BERLIN,SKU-2001,10,"45,00",Completed 
+ORD-202608-0003,2026-08-01,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho ,SKU-2003,3,$150.00,Completed
+ORD-202608-0004,2026-08-01,TOM WILSON,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-3001,1,5.2,Delivered
+ord-202608-0005,"Aug 02, 2026",Marie Dubois,dubois.marie@atelier.co,Atelier Dubois,Lyon,SKU-2001,6 cái,45,completed
+ORD-202608-0006,2026-08-02,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-3001,10 pcs,5.46,Delivered
+ORD-202608-0007,2026-08-02,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-3003,2,$32,Cancelled
+ORD-202608-0008,2026-08-02,Olivia Martin,martin.olivia@harbor.net,Harbor Point Inc,Portland,SKU-1002,6,$25,Completed
+ORD-202608-0009,2026-08-03,lý gia bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-3001,6 pcs,5.2,Completed
+ORD-202608-0010,2026-08-04,TOM WILSON,wilson.tom@greenfield.net,Greenfield Co,Denver,SKU-2003,8 PCS,150,DELIVERED
+ORD-202608-0011,2026-08-04,Carlos Mendes,mendes.carlos,,Sao Paulo,SKU-1003,x1,8.75,Completed
+ORD-202608-0012,2026-08-05,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,MUMBAI,SKU-1003,10 pcs,7.88,Cancelled
+ORD-202608-0013,2026-08-05,Hiroshi Tanaka,tanaka.hiroshi@sakura.com,Sakura Trading KK,Osaka,SKU-2002,3,89.9,Completed
+ORD-202608-0014,06/08/2026,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,sku2001,1,47.25,Delivered
+ORD-202608-0015,06/08/2026,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Cần Thơ,SKU-2002,1,89.9,Completed
+ORD-202608-0016,06/08/2026,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-1003,1,$8.75,Cancelled
+ORD-202608-0017,2026-08-06,HIROSHI TANAKA,tanaka.hiroshi@sakura.vn,Sakura Trading KK,Osaka,SKU-2003,4 pcs,150,Pending 
+ORD-202608-0018,07/08/2026,Trần Thị Bích,bich.tran@sao.net,"Sao Mai Co., Ltd",HN,SKU-1001,6,12.5,COMPLETED
+ORD-202608-0019,2026-08-07,  Lê Hoàng Nam ,nam.le,Thiên Quý Group,Can Tho,SKU-3001,1,$5.20,Delivered
+ORD-202608-0020,2026-08-07,Nguyễn  Văn An,an.nguyen @minh.co,Minh Phát Trading,Ho Chi Minh City,sku4001,2 PCS,220,Completed 
+ORD-202608-0021,"Aug 07, 2026",Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-2003,x2,150,Completed
+ord-202608-0022,2026-08-08,Lê  Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Can Tho,SKU-2003,x5,150,Deliverd
+ORD-202608-0023,2026-08-09,Hồ Ngọc Mai,MAI.HO@MEKONG.VN,Mekong Fresh JSC,Can Tho,SKU-2002,3 pcs,89.9,Completed
+ORD-202608-0024,2026-08-09,Marie Dubois,dubois.marie@atelier.com,,Lyon,SKU-2002,8,$89.90,Completed
+ORD-202608-0025,2026-08-09,  David Lee ,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-3001,2 pcs,5.2,completed
+ORD-202608-0026,2026-08-10,Tom Wilson,wilson.tom@greenfield.com,Greenfield Co,Denver,SKU-2002,x2,89.9,Completed
+ORD-202608-0027,2026-08-11,Emily Carter,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-1003,6 pcs,8.75,Completed
+ORD-202608-0028,2026-08-11,Bùi Thanh Hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-2002,6,$89.90,Completed
+ORD-202608-0029,12/08/2026,Kevin Tran,tran.kevin,Tran & Sons,San Jose,SKU-3002,2pc,19,Complete
+ORD-202608-0030,2026-08-13,Marie Dubois,dubois.marie@atelier.com,Atelier Dubois,Lyon,SKU-1002,four,24.99,
+ORD-202608-0031,2026-08-13,  Michael Brown ,brown.michael,Lakeside Hardware,Chicago,sku2003,6,150,Completed
+ORD-202608-0032,2026-08-14,Lý Gia Bảo,bao.ly@rong.vn,Rồng Việt Media,Hue,SKU-1002,4,"24,99",Completed
+ORD-202608-0033,2026-08-14,Anna Müller,MULLER.ANNA@RHEINLAND.CO,Rheinland GmbH,Berlin,SKU-4001,6,220,Completed
+ORD-202608-0034,2026-08-14,lê hoàng nam,,Thiên Quý Group,Can Tho,SKU-1003,5,8.75,Cancelled
+ORD-202608-0035,15-Aug-26,Phạm Quốc Huy,huy.pham@phong.net,Phong Phúc Thịnh,Da Nang,SKU-3001,1,5.2,Cancelled
+ORD-202608-0036,2026-08-15,Linda Nguyen,,Saigon Bay Foods,Houston,SKU-2002,2,89.9,Delivered
+ORD-202608-0037,2026-08-15,Hồ Ngọc Mai,mai.ho@mekong.com,,Can Tho,SKU-1001,3,12.5,Completed
+ORD-202608-0038,16-Aug-26,NGUYỄN VĂN AN, an.nguyen@minh.vn ,Minh Phát Trading,Saigon,SKU-2001,5,40.5,Delivered
+ORD-202608-0039,2026-08-16,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-3002,5 pcs,$19.00,Completed 
+ORD-202608-0040,2026-08-16,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-1003,1,$7.88,Delivered
+ORD-202608-0041,2026-08-16,  Emily Carter ,carter.emily@northwind.net,Northwind Retail,Seattle,SKU-1001,1,11.25,Cancelled
+ORD-202608-0042,2026-08-17,Lý Gia Bảo, bao.ly@rong.co ,Rồng Việt Media,Hue,SKU-2002,2,89.9,Completed
+ORD-202608-0043,2026-08-17,EMILY CARTER,carter.emily@northwind.co,,Seattle,SKU-1001,10,12.5,Delivered
+ORD-202608-0044,17-Aug-26,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-3002,1,20.9,Deliverd
+ORD-202608-0045,2026-08-17,Olivia Martin,martin.olivia@harbor.vn,Harbor Point Inc,Portland,SKU-2002,6,89.9,Delivered
+ORD-202608-0046,2026-08-18,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-1002,4 pcs,24.99,COMPLETED
+ORD-202608-0047,2026-08-18,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-2002,3 pcs,89.9,Completed
+ORD-202608-0048,18-Aug-26,Linda Nguyen,,Saigon Bay Foods,Houston,SKU-1002,5,24.99,Completed
+ORD-202608-0049,19-Aug-26,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle,SKU-3003,2pc,32.5,Completed
+ORD-202608-0050,2026-08-20,Carlos Mendes,mendes.carlos @mendes.vn,Mendes Comercio,Sao Paulo,SKU-2003,1,150,Completed
+ORD-202608-0051,2026-08-20,  Lê Hoàng Nam ,nam.le@thien.vn,Thiên Quý Group,Can Tho,sku1001,3,12.5,Delivered
+ORD-202608-0052,2026-08-20,Lê Hoàng Nam,,Thiên Quý Group,Cần Thơ,SKU-4001,4,220.00 USD,Completed
+ORD-202608-0053,2026-08-21,Phạm Quốc Huy,huy.pham@phong.co,,Da Nang,SKU-1001,6,12.5,Completed
+ORD-202608-0054,21/08/2026,  Linda Nguyen ,nguyen.linda @saigon.vn,Saigon Bay Foods,Houston,SKU-1003,2 cái,8.75,Delivered
+ORD 202608-0055,"Aug 22, 2026",  David Lee ,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-2002,1,89.9,completed
+ORD-202608-0056,"Aug 22, 2026",  John Smith ,SMITH.JOHN@BRIGHTWAY.COM,Brightway Supplies,AUSTIN,SKU-4001,3,220,COMPLETED
+ORD-202608-0057,2026-08-23,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,can tho,SKU-3003,2,$34.12,Completed
+ORD-202608-0058,2026-08-23,Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-3002,10,19,Delivered
+ORD-202608-0059,2026-08-23,Sarah Johnson,johnson.sarah@blue.vn,Blue Harbor LLC,Boston,SKU-1001,2 units,12.5,Delivered
+ORD 202608-0060,2026-08-23,Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,DENVER,SKU-2002,4 pcs,$94,Complete
+ORD-202608-0061,2026-08-24,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Saigon,SKU-3002,1 PCS,19,Delivered
+ORD-202608-0062,2026-08-24,John Smith,,Brightway Supplies,Austin,SKU-3003,1 pcs,32.5,Completed
+ORD-202608-0063,2026-08-24,  Bùi Thanh Hà ,ha.bui @nam.co,Năm Căn Logistics,Ca Mau,SKU-2003,2 pcs,135,Delivered
+ORD-202608-0064,2026-08-24,Anna Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-3003,6 units,32.50 USD,Completed
+ORD-202608-0065,25-Aug-26,anna müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-2001,4,42.75,completed
+ORD-202608-0066,2026-08-26,Sarah Johnson,johnson.sarah@blue.com,Blue Harbor LLC,Boston,sku2003,2 pcs,$142.50,Delivered
+ORD-202608-0067,"Aug 26, 2026",KEVIN TRAN,tran.kevin@tran.net,Tran & Sons,San Jose,SKU-3002,5 PCS,19,cancelled
+ORD-202608-0068,2026-08-26,Emily Carter,carter.emily@northwind.vn,Northwind Retail,Seattle ,SKU-4001,five,198,Completed
+ORD-202608-0069,2026-08-26,Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-1001,4pc,12.5,Completed
+ORD-202608-0070,2026-08-27,Hồ Ngọc Mai,mai.ho@mekong.vn,Mekong Fresh JSC,Cần Thơ,SKU-1003,4,8.75,Completed
+ORD-202608-0071,2026-08-27,Nguyễn Văn An,an.nguyen@minh.co,Minh Phát Trading,Ho Chi Minh,SKU-3001,5pc,5.72,completed
+ORD-202608-0072,2026-08-28,  Linda Nguyen ,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-1002,4,24.99,Cancelled
+ORD-202608-0073,2026-08-28,  David Lee ,,Pacific Rim Imports,SAN DIEGO,SKU-2001,10 pcs,45,Completed
+ORD-202608-0074,2026-08-28,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-2003,four,150,Completed
+ORD-202608-0075,29-Aug-26,Anna Müller,,Rheinland GmbH,Berlin,SKU-2003,ten,135,completed
+ORD-202608-0076,"Aug 29, 2026",Tom Wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-4001,4,220,Completed
+ORD-202608-0077,2026-08-30,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Ha Noi,SKU-3001,four,5.2,Delivered
+ORD-202608-0078,2026-08-30,Hiroshi Tanaka,tanaka.hiroshi@sakura.net,Sakura Trading KK,Osaka,sku4001,2 units,220,Cancelled
+ORD-202608-0079,30/08/2026,David Lee,lee.david@pacific.net,Pacific Rim Imports,San Diego,SKU-3002,10 cái,19,COMPLETED
+ORD-202608-0080,2026-08-31,Lê Hoàng Nam,nam.le@thien.vn,Thiên Quý Group,Can Tho,SKU-3001,5,5.2,Completed
+ORD-202608-0081,31-Aug-26,  Michael Brown ,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-2002,3,80.91,DELIVERED
+ORD-202608-0082,31/08/2026,Hồ Ngọc Mai,mai.ho@mekong.com,Mekong Fresh JSC,Can Tho,SKU-2003,2,150,Delivered
+ord-202608-0083,31/08/2026,anna müller, muller.anna@rheinland.co ,Rheinland GmbH,Berlin,sku3002,2,"19,00",Delivered
+ord-202608-0083,31/08/2026,anna müller, muller.anna@rheinland.co ,Rheinland GmbH,Berlin,sku3002,2,"19,00",Delivered
+ORD-202608-0078,2026-08-30,Hiroshi Tanaka,tanaka.hiroshi@sakura.net,Sakura Trading KK,Osaka,sku4001,2 units,220,Cancelled

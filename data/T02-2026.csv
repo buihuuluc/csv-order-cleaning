@@ -1,0 +1,87 @@
+Order ID,Order Date,Customer Name,Email,Company Name,City,SKU,Quantity,Unit Price (USD),Status Check
+ORD-202602-0001,2026-02-01,  David Lee ,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-3003,1,32.5,Delivered
+ORD-202602-0002,02/02/2026,Carlos Mendes,mendes.carlos@mendes.com,,SAO PAULO,SKU-1001,4 pcs,12.5,
+ORD-202602-0003,2026-02-02,David Lee,lee.david@pacific.com,Pacific Rim Imports,San Diego,SKU-1001,2,12.5,Completed
+ORD-202602-0004,2026-02-02,Lê Hoàng Nam,NAM.LE@THIEN.VN,Thiên Quý Group,can tho,SKU-1001,2pc,$12,Completed 
+ord-202602-0005,03-Feb-26,JOHN SMITH,SMITH.JOHN@BRIGHTWAY.CO,,Austin,SKU-2003,2pc,150.00 USD,Cancelled
+ORD-202602-0006,2026-02-03,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-3002,10,19,Completed
+ORD-202602-0007,2026-02-03,Hiroshi Tanaka,tanaka.hiroshi@sakura.com,Sakura Trading KK,Osaka,SKU-3001,1 pcs,5.2,Completed
+ORD-202602-0008,2026-02-03,John Smith,smith.john@brightway.vn,Brightway Supplies,Austin,SKU-1001,5,12.5,Completed
+ORD-202602-0009,2026-02-03,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-1003,5pc,8.75,Completed
+ORD-202602-0010,2026-02-04,Võ Thị Lan,lan.vo@thinh.co,Thịnh Phát Laundry,Cần Thơ,sku2002,2,$90,Delivered
+ORD-202602-0011,04-Feb-26,tom wilson,,Greenfield Co,Denver,SKU-3003,six,32.5,Delivered
+ORD-202602-0012,2026-02-05,Olivia Martin,martin.olivia @harbor.vn,Harbor Point Inc,Portland,SKU-2001,6,45,Completed
+ORD-202602-0013,"Feb 06, 2026",Trần Thị Bích,bich.tran@sao.co,"Sao Mai Co., Ltd",HN,SKU-3002,1,$19.00,Delivered 
+ORD-202602-0014,"Feb 06, 2026",trần thị bích,bich.tran@sao.vn,"Sao Mai Co., Ltd",Hanoi,SKU-1002,2 units,$26.24,Delivered
+ORD-202602-0015,2026-02-06,đặng minh tuấn,tuan.dang@vgreen.co,V-Green Energy,HAI PHONG,SKU-2002,2,89.9,Completed
+ORD-202602-0016,2026-02-07,kevin tran,tran.kevin @tran.com,Tran & Sons,San Jose,SKU-1001,2 pcs,12.50 USD,PENDING
+ORD-202602-0017,"Feb 08, 2026",Lý Gia Bảo,bao.ly@rong.com,Rồng Việt Media,Hue,SKU-1002,10,$24.99,Completed
+ORD-202602-0018,2026-02-08,Carlos Mendes,mendes.carlos@mendes.com,Mendes Comercio,SAO PAULO,SKU-3003,5,32.50 USD,Completed
+ORD-202602-0019,08-Feb-26,Marie Dubois,dubois.marie@atelier.vn,Atelier Dubois,Lyon,SKU-1003,3,8.75,Completed
+ORD-202602-0020,2026-02-08,Trần Thị Bích,bich.tran@sao.com,"Sao Mai Co., Ltd",Hanoi,sku2002,6,89.9,Completed
+ORD-202602-0021,2026-02-08,bùi thanh hà,ha.bui@nam.co,Năm Căn Logistics,Ca Mau,SKU-3003,6,$30.88,Completed 
+ORD-202602-0022,2026-02-09,Nguyễn Văn An,an.nguyen@minh.com,Minh Phát Trading,Ho Chi Minh City,SKU-2003,5,150,Completed
+ORD-202602-0023,2026-02-09,Priya Sharma,sharma.priya@lotus.com,Lotus Exports Pvt,Mumbai,SKU-3003,2 pcs,32.5,Complete
+ORD-202602-0024,09/02/2026,Anna Müller,MULLER.ANNA@RHEINLAND.COM,Rheinland GmbH,Berlin,SKU-1002,1,24.99,Completed
+ORD-202602-0025,2026-02-09,Kevin Tran,TRAN.KEVIN@TRAN.VN,Tran & Sons,San Jose,SKU-3001,10,5.20 USD,Completed
+ORD-202602-0026,2026-02-09,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-2002,5,98.89,CANCELLED
+ORD-202602-0027,2026-02-09,Lý Gia Bảo,BAO.LY@RONG.VN,Rồng Việt Media,Hue,SKU-2002,6pc,89.9,Completed
+ORD-202602-0028,2026-02-09,Carlos Mendes,mendes.carlos@mendes.vn,Mendes Comercio,Sao Paulo,SKU-3001,eight,5.2,Complete
+ORD-202602-0029,2026-02-09,marie dubois,dubois.marie,Atelier Dubois,Lyon,SKU-1001,2 pcs,12.5,Completed
+ord-202602-0030,2026-02-10,Bùi Thanh Hà,HA.BUI@NAM.NET,,Ca Mau,SKU-2002,4,$90,Completed
+ORD-202602-0031,10/02/2026,tom wilson,wilson.tom@greenfield.co,Greenfield Co,Denver,SKU-3001,4 units,5.2,
+ORD-202602-0032,2026-02-10,Hồ Ngọc Mai,mai.ho@mekong.co,Mekong Fresh JSC,Can Tho,SKU-1002,4pc,"24,99",Cancelled
+ORD-202602-0033,2026-02-11,Nguyễn Văn An,an.nguyen@minh.net,Minh Phát Trading,HCM,SKU-1002,1 cái,"24,99",Completed
+ORD-202602-0034,2026-02-11,linda nguyen,nguyen.linda@saigon.vn,Saigon Bay Foods,Houston,SKU-1003,1,8.75 USD,delivered
+ORD-202602-0035,2026-02-11,Linda Nguyen,nguyen.linda@saigon.co,Saigon Bay Foods,Houston,SKU-2003,2,157.50 USD,Delivered
+ORD-202602-0036,2026-02-11,Lý Gia Bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-2002,8pc,$89.90,completed
+ORD-202602-0037,2026-02-11,Dương  Anh Khoa,khoa.duong@binh.net,Bình An Pharma,TP.HCM,SKU-2003,5,150,Completed
+ORD-202602-0038,2026-02-13,Michael Brown,brown.michael@lakeside.com,Lakeside Hardware,Chicago,sku4001,8,220,Completed
+ord-202602-0039,14/02/2026,Priya Sharma,sharma.priya @lotus.net,Lotus Exports Pvt,Mumbai,SKU-3003,5 PCS,32.5,Delivered
+ORD-202602-0040,2026-02-14,Sarah Johnson,johnson.sarah@blue.net,Blue Harbor LLC,Boston,SKU-4001,4,220,Cancelled
+ORD-202602-0041,2026-02-14,Michael Brown,brown.michael @lakeside.net,Lakeside Hardware,Chicago,SKU-3002,eight,19,Completed
+ORD-202602-0042,2026-02-15,John Smith,smith.john@brightway.co,Brightway Supplies,Austin,SKU-1003,4,8.75,Delivered
+ORD-202602-0043,2026-02-15,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-1002,6pc,24.99,Completed
+ORD-202602-0044,2026-02-15,marie dubois, dubois.marie@atelier.vn ,Atelier Dubois,Lyon,SKU-3001,6,5.2,Completed
+ORD 202602-0045,2026-02-15,  Sarah Johnson ,johnson.sarah@blue.vn,Blue Harbor LLC,Boston,SKU-2002,1,89.9,Delivered
+ORD-202602-0046,2026-02-16,David Lee,lee.david@pacific.co,Pacific Rim Imports,San Diego,SKU-3003,4,$32.50,Completed
+ORD-202602-0047,2026-02-17,Lê Hoàng Nam,nam.le@thien.com,Thiên Quý Group,Cantho,SKU-3002,3,$19.00,DELIVERED
+ORD -202602 -0048,"Feb 17, 2026",Anna  Müller,muller.anna@rheinland.vn,Rheinland GmbH,Berlin,SKU-1002,three,23.74,Delivered
+ORD-202602-0049,2026-02-17,David Lee,lee.david@pacific.vn,Pacific Rim Imports,San Diego,SKU-2002,3 PCS,80.91 USD,Canceled
+ORD-202602-0050,2026-02-18,Bùi Thanh Hà,ha.bui@nam.net,Năm Căn Logistics,Ca Mau,SKU-2003,10,$150.00,Completed
+ORD-202602-0051,"Feb 19, 2026",John Smith,SMITH.JOHN@BRIGHTWAY.VN,Brightway Supplies,Austin,SKU-3003,5,32.5,Completed
+ORD-202602-0052,2026-02-19,  Marie Dubois ,dubois.marie,Atelier Dubois,Lyon,sku3001,2pc,5.2,COMPLETED
+ORD -202602 -0053,20/02/2026,Olivia Martin,MARTIN.OLIVIA@HARBOR.COM,Harbor Point Inc,Portland,sku4001,3,220.00 USD,Completed
+ORD-202602-0054,2026-02-20,John Smith,smith.john@brightway.com,Brightway Supplies,Austin,SKU-3002,2,19,Cancelled
+ord-202602-0055,"Feb 21, 2026",Đặng Minh Tuấn,tuan.dang@vgreen.com,V-Green Energy,Hai Phong,SKU-2001,2,45,Cancelled
+ORD-202602-0056,2026-02-22,lý gia bảo,bao.ly@rong.net,Rồng Việt Media,Hue,SKU-3003,2 pcs,32.5,Cancelled
+ORD-202602-0057,2026-02-22,  Priya Sharma ,,Lotus Exports Pvt,Mumbai,SKU-1002,6,"24,99",Completed
+ORD-202602-0058,22/02/2026,Hiroshi Tanaka,tanaka.hiroshi@sakura.co,Sakura Trading KK,Osaka,SKU-3001,1 PCS,$5.20,completed
+ORD-202602-0059,2026-02-23,anna müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-2003,2,150,COMPLETED
+ord-202602-0060,2026-02-23,anna müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-2002,2 pcs,89.9,Complete
+ORD-202602-0061,2026-02-23,John Smith,smith.john@brightway.vn,Brightway Supplies,AUSTIN,SKU-1003,1 units,8.75,Complete
+ORD-202602-0062,23/02/2026,Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-4001,2,220,Completed
+ORD-202602-0063,2026-02-24,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-1001,1,12.5,completed
+ORD-202602-0064,2026-02-24,Olivia Martin,martin.olivia@harbor.co,Harbor Point Inc,Portland,SKU-3002,5 pcs,19,Delivered
+ORD-202602-0065,2026-02-24,David Lee,lee.david@pacific.co,,San Diego,SKU-2002,x1,89.9,CANCELLED
+ORD-202602-0066,2026-02-24,Lý Gia Bảo,bao.ly @rong.vn,Rồng Việt Media,Hue,SKU-2002,5,89.9,completed
+ORD-202602-0067,2026-02-24,Tom Wilson, wilson.tom@greenfield.net ,Greenfield Co,Denver,SKU-1002,4 PCS,$24.99,Delivered
+ORD-202602-0068,2026-02-24,Anna Müller,muller.anna@rheinland.net,Rheinland GmbH,Berlin,SKU-2003,1,$150.00,Completed
+ORD-202602-0069,2026-02-25,  Trần Thị Bích ,,"Sao Mai Co., Ltd",Hanoi,SKU-1001,1,12.5,Complete
+ORD-202602-0070,2026-02-25,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,Berlin,SKU-2001,1 units,45,Completed
+ORD-202602-0071,25/02/2026,David Lee, lee.david@pacific.com ,,San Diego,SKU-2002,10,89.90 USD,Deliverd
+ORD-202602-0072,"Feb 25, 2026",Priya Sharma,sharma.priya@lotus.co,Lotus Exports Pvt,Mumbai,SKU-1003,x5,8.75,Completed
+ORD-202602-0073,2026-02-26,Anna Müller,muller.anna@rheinland.com,Rheinland GmbH,BERLIN,SKU-3001,2,5.2,Completed
+ORD-202602-0074,2026-02-26,John Smith,smith.john@brightway.vn,,Austin,SKU-1001,3,13.75,COMPLETED
+ORD-202602-0075,2026-02-26,Priya Sharma,sharma.priya@lotus.net,Lotus Exports Pvt,Mumbai,SKU-3003,6 pcs,"32,50",Completed
+ORD-202602-0076,2026-02-26,John Smith,smith.john@brightway.co,Brightway Supplies,Austin ,SKU-1002,10,24.99,Completed
+ORD-202602-0077,2026-02-27,Phạm Quốc Huy,huy.pham@phong.vn,Phong Phúc Thịnh,Da Nang,sku3001,2,5.2,pending
+ORD-202602-0078,2026-02-27,Kevin Tran,tran.kevin@tran.com,Tran & Sons,SAN JOSE,SKU-3002,4,19,completed
+ORD-202602-0079,2026-02-27,Emily Carter,carter.emily@northwind.co,Northwind Retail,Seattle,SKU-2002,6 pcs,98.89,DELIVERED
+ORD-202602-0080,2026-02-28,  Lê Hoàng Nam ,nam.le@thien.co,Thiên Quý Group,CAN THO,SKU-3001,1,5.2,Delivered
+ORD-202602-0081,2026-02-28,Michael Brown,brown.michael@lakeside.vn,Lakeside Hardware,Chicago,SKU-3001,1 PCS,5.2,pending
+ORD-202602-0082,2026-02-28,Dương Anh Khoa,khoa.duong@binh.net,Bình An Pharma,Ho Chi Minh City,SKU-3001,4,$5,Delivered
+ORD-202602-0083,"Feb 28, 2026",Đặng Minh Tuấn,tuan.dang@vgreen.vn,V-Green Energy,Hai Phong,SKU-1001,2pc,12.50 USD,Completed
+ORD-202602-0043,2026-02-15,Michael Brown,brown.michael@lakeside.co,Lakeside Hardware,Chicago,SKU-1002,6pc,24.99,Completed
+ORD-202602-0014,"Feb 06, 2026",trần thị bích,bich.tran@sao.vn,"Sao Mai Co., Ltd",Hanoi,SKU-1002,2 units,$26.24,Delivered
+ord-202602-0005,03-Feb-26,JOHN SMITH,SMITH.JOHN@BRIGHTWAY.CO,,Austin,SKU-2003,2pc,150.00 USD,Cancelled
